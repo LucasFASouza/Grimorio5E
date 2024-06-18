@@ -2,25 +2,25 @@
 import React, { useState } from "react";
 
 const SpellCard = ({ spell }) => {
-  
   const [isCollapsed, setIsCollapsed] = useState(true);
 
   const toggleCollapse = () => setIsCollapsed(!isCollapsed);
 
   return (
-    <div className="w-1/4 p-2">
-      <div className="card-header">
-        <h2 className="text-xl font-bold">{spell.name}</h2>
-        <button onClick={toggleCollapse} className="text-sm">
+    <div className="w-[24%] p-2 bg-amber-50 rounded-md text-stone-900">
+      <div>
+        <h2 className="text-2xl font-serif text-red-800 border-b-2 border-b-amber-400 border-opacity-50">
+          {spell.name}
+        </h2>
+        <button onClick={toggleCollapse} className="text-sm pb-4">
           {isCollapsed ? "Show More" : "Show Less"}
         </button>
       </div>
       {!isCollapsed && (
-        <div className="card-body">
+        <div className="text-sm">
           <p>
-            Círculo de <strong>{spell.school}</strong>
-            {spell.level > 0 && ` (Nível ${spell.level})`}
-            {spell.level == 0 && ` (Truque)`}
+            {spell.level > 0 ? "Magia " : "Truque "}
+            de <strong>{spell.school}</strong>
           </p>
           <p>
             <strong>Tempo de Conjuração:</strong> {spell.casting_time}
@@ -34,9 +34,14 @@ const SpellCard = ({ spell }) => {
           <p>
             <strong>Duração:</strong> {spell.duration}
           </p>
-          <p>
-            <strong>Descrição:</strong> {spell.description}
-          </p>
+          <div>
+            <strong>Descrição:</strong>
+            {spell.description.split("\n").map((line, index) => (
+              <React.Fragment key={index}>
+                <p>{line}</p>
+              </React.Fragment>
+            ))}
+          </div>
         </div>
       )}
     </div>
