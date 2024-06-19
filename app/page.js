@@ -98,6 +98,42 @@ export default function Home() {
             </div>
           )
       )}
+
+      <footer className="text-sm pt-8">
+        <h3 className="text-lg font-bold font-serif text-red-800 border-b-2 border-b-amber-400 border-opacity-50 ">
+          Grimório 5e.
+        </h3>
+        <p>
+          Essa ferramenta é baseada no System Reference Document (SRD) e opera
+          sob a Open Game License (OGL).
+        </p>
+        <p>Não é oficialmente afiliada à Wizards of the Coast.</p>
+        <p>
+          Construida com{" "}
+          <a className="font-semibold underline" href="https://reactjs.org/">
+            React
+          </a>
+          ,{" "}
+          <a className="font-semibold underline" href="https://nextjs.org/">
+            Next.js
+          </a>
+          , e{" "}
+          <a className="font-semibold underline" href="https://nextui.org/">
+            NextUI
+          </a>
+          .
+        </p>
+        <p>
+          Desenvolivda por{" "}
+          <a
+            className="font-semibold underline"
+            href="https://github.com/LucasFASouza"
+          >
+            Lucas
+          </a>{" "}
+          para meus aventureiros Anna e Pedro.
+        </p>
+      </footer>
     </main>
   );
 }
