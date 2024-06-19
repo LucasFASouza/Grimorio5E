@@ -44,8 +44,6 @@ export default function Home() {
   };
 
   const applyFilters = () => {
-    setLoading(true);
-
     let filteredSpells = spellsDetails;
 
     if (selectedClass && selectedClass !== "Todos") {
@@ -74,7 +72,7 @@ export default function Home() {
       filteredSpellsByLevel[spell.level].push(spell);
     });
 
-    setSpellsByLevel(filteredSpellsByLevel).then(() => setLoading(false));
+    setSpellsByLevel(filteredSpellsByLevel);
   };
 
   // Load bookmarks from local storage only on component mount
@@ -105,7 +103,9 @@ export default function Home() {
 
   // Apply filters whenever dependencies change
   useEffect(() => {
+    setLoading(true);
     applyFilters();
+    setLoading(false);
   }, [selectedClass, searchSpell, bookmarkMode]);
 
   return (
