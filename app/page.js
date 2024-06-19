@@ -86,13 +86,11 @@ export default function Home() {
 
           <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
             {spells.map((spell, jindex) => (
-              <div>
                 <SpellCard
                   key={jindex}
                   spell={spell}
                   collapsed={collapsedStates[index]}
                 />
-              </div>
             ))}
           </div>
         </div>
