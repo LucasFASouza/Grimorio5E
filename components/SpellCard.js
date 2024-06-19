@@ -5,9 +5,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBookmark as faBookmarkRegular } from "@fortawesome/free-regular-svg-icons";
 import { faBookmark as faBookmarkSolid } from "@fortawesome/free-solid-svg-icons";
 
-const SpellCard = ({ spell, collapsed }) => {
+const SpellCard = ({ spell, collapsed, bookmarked }) => {
   const [isCollapsed, setIsCollapsed] = useState(collapsed);
-  const [isBookmarked, setIsBookmarked] = useState(false);
+  const [isBookmarked, setIsBookmarked] = useState(bookmarked);
 
   useEffect(() => {
     setIsCollapsed(collapsed);

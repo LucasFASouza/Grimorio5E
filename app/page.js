@@ -13,9 +13,11 @@ export default function Home() {
   );
 
   const [collapsedStates, setCollapsedStates] = useState(Array(10).fill(false));
+  const [bookmarks, setBookmarks] = useState([]);
 
   const [classes, setClasses] = useState([]);
   const [selectedClass, setSelectedClass] = useState("");
+
   const [searchSpell, setSearchSpell] = useState("");
 
   const toggleCollapse = (level) => {
@@ -108,6 +110,7 @@ export default function Home() {
                     key={jindex}
                     spell={spell}
                     collapsed={collapsedStates[index]}
+                    bookmarked={bookmarks.includes(spell.id)}
                   />
                 ))}
               </div>
@@ -120,8 +123,14 @@ export default function Home() {
           Grimório 5e.
         </h3>
         <p>
-          Essa ferramenta é baseada no System Reference Document (SRD) e opera
-          sob a Open Game License (OGL).
+          Essa ferramenta é baseada no{" "}
+          <a
+            className="font-semibold underline"
+            href="https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf"
+          >
+            System Reference Document
+          </a>{" "}
+          (SRD) e opera sob a Open Game License (OGL).
         </p>
         <p>Não é oficialmente afiliada à Wizards of the Coast.</p>
         <p>
