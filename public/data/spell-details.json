@@ -12,7 +12,7 @@
     "material": "uma pequena quantidade de maquiagem aplicada ao rosto durante a conjuração da magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -28,7 +28,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -44,7 +44,7 @@
     "material": "visco, uma folha de trevo e uma clava ou bordão.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -60,7 +60,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -76,7 +76,7 @@
     "material": "uma muda de uma planta com espinhos.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -92,7 +92,7 @@
     "material": "dois ímãs.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -108,7 +108,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -124,7 +124,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -140,7 +140,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -156,7 +156,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -172,7 +172,7 @@
     "material": "um pouco de fósforo ou wychwood ou um inseto luminoso.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -188,7 +188,7 @@
     "material": "um pouco de lã.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -204,7 +204,7 @@
     "material": "um vaga-lume ou musgo fosforescente.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -220,7 +220,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -236,7 +236,7 @@
     "material": "um pedaço curto de fio de cobre.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -252,7 +252,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -268,7 +268,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -284,7 +284,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -300,7 +300,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -316,7 +316,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -332,7 +332,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -348,7 +348,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -364,7 +364,7 @@
     "material": "um manto em miniatura.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -380,7 +380,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -396,7 +396,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -412,7 +412,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -428,7 +428,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -444,7 +444,7 @@
     "material": "um pequeno sino e um pequeno fio de prata.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -460,7 +460,7 @@
     "material": "um punhado de comida.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, você pode afetar uma besta adicional para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -476,7 +476,7 @@
     "material": "um pouco de pele de porco ou manteiga.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -492,7 +492,7 @@
     "material": "um pedaço de couro curado.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -508,7 +508,7 @@
     "material": "um copo de água.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, tanto os pontos de vida temporários quanto o dano de frio aumentam em 5 para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -524,7 +524,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -540,7 +540,7 @@
     "material": "um borrifo de água benta.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, você pode afetar uma criatura adicional para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -556,7 +556,7 @@
     "material": "um raminho de visco.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -572,7 +572,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, o dano aumenta em 1d6 para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -588,7 +588,7 @@
     "material": "o olho petrificado de um tritão.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 3° ou 4° nível, você poderá manter sua concentração na magia por até 8 horas",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -604,7 +604,7 @@
     "material": null,
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 2° nível ou superior, você pode afetar uma criatura adicional para cada nível do espaço acima do 1°",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -620,7 +620,7 @@
     "material": "um pitada de fuligem e sal.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -636,7 +636,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -652,7 +652,7 @@
     "material": "carvão, incenso e ervas no valor de 10 po, que devem ser consumidos pelo fogo em um braseiro de bronze.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -668,7 +668,7 @@
     "material": "uma gota de água se estiver criando ou alguns grãos de areia se estiver destruindo.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, você pode criar ou destruir 30 litros de água adicionais, ou o tamanho do cubo aumenta em 1,5 metro, para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -684,7 +684,7 @@
     "material": null,
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 2° nível ou superior, a cura aumenta em 1d8 para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -700,7 +700,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -716,7 +716,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, o dano extra inicial causado por esse ataque aumenta em 1d6 para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -732,7 +732,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -748,7 +748,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -764,7 +764,7 @@
     "material": null,
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -780,7 +780,7 @@
     "material": "uma folha de teixo.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -796,7 +796,7 @@
     "material": "uma gota de mercúrio.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -812,7 +812,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -828,7 +828,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -844,7 +844,7 @@
     "material": null,
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 2° nível ou superior, você pode afetar uma criatura adicional para cada nível do espaço acima do 1°",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -860,7 +860,7 @@
     "material": "uma tinta à base de chumbo valendo, no mínimo, 10 po, que é consumida pela magia.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -876,7 +876,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -892,7 +892,7 @@
     "material": "um pequeno pergaminho com alguns textos sagrados escritos nele.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -908,7 +908,7 @@
     "material": null,
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -924,7 +924,7 @@
     "material": null,
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -940,7 +940,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -956,7 +956,7 @@
     "material": null,
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 2° nível ou superior, o dano aumenta em 1d6 para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -972,7 +972,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, você pode afetar uma criatura adicional para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -988,7 +988,7 @@
     "material": "uma perola valendo, no mínimo, 100 po e uma pena de coruja.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1004,7 +1004,7 @@
     "material": "um pouco de lã.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1020,7 +1020,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, o dano aumenta em 1d10 para cada nível acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1036,7 +1036,7 @@
     "material": "um punhado de pó ou areia nas cores vermelha, amarela e azul.",
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 2° nível ou superior, jogue 2d10 adicionais para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1052,7 +1052,7 @@
     "material": null,
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 2° nível ou superior, o dano aumenta em 1d6 para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1068,7 +1068,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 3° ou 4° nível, você poderá manter sua concentração na magia por até 8 horas",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1084,7 +1084,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, a magia cria um dardo adicional para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1100,7 +1100,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, o raio da névoa aumenta em 6 metros para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1116,7 +1116,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, o dano aumenta em 1d8 para cada nível acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1132,7 +1132,7 @@
     "material": "um diamante valendo, no mínimo, 50 po.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, o dano aumenta em 1d8 para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1148,7 +1148,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, a cura aumenta em 1d4 para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1164,7 +1164,7 @@
     "material": "um pouco de barro.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, você pode afetar uma criatura adicional para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1180,7 +1180,7 @@
     "material": "uma gota de sangue.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, você pode afetar uma criatura adicional para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1196,7 +1196,7 @@
     "material": "água benta ou pó de prata e ferro, consumidos pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1212,7 +1212,7 @@
     "material": null,
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1228,7 +1228,7 @@
     "material": "uma pequena pena ou penugem similar.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1244,7 +1244,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, o dano da magia aumenta em 1d8 para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1260,7 +1260,7 @@
     "material": "um galho de uma árvore que tenha sido atingida por um relâmpago.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, o dano inicial aumenta em 1d12 para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1276,7 +1276,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, o dano aumenta em 1d6 para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1292,7 +1292,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1308,7 +1308,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, o dano aumenta em 1d10 para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1324,7 +1324,7 @@
     "material": "pequenas tortas e uma pena que é balançada no ar.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1340,7 +1340,7 @@
     "material": "uma perna de gafanhoto.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1356,7 +1356,7 @@
     "material": "um pequeno espelho de prata.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1372,7 +1372,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, o dano aumenta em 1d10 para cada nível do espaço acima do 1° (até o máximo de 6d10).",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1388,7 +1388,7 @@
     "material": "um pedaço de barbante e um pouco de madeira.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1404,7 +1404,7 @@
     "material": "um punhado de areia fina, pétalas de rosas ou um grilo.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2º nível ou superior, jogue 2d8 adicionais para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1420,7 +1420,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, o dano aumenta em 1d6 para cada nível do espaço acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1436,7 +1436,7 @@
     "material": "uma pequena quantidade de álcool ou bebidas destiladas.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, você ganha 5 pontos de vida temporários adicionais para cada nível do espaço de magia acima do 1°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1452,7 +1452,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1468,7 +1468,7 @@
     "material": "uma pequena fita de tecido branco.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 3° nível ou superior, os pontos de vida dos alvos aumentam em 5 pontos adicionais para cada nível do espaço acima do o 2°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1484,7 +1484,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1500,7 +1500,7 @@
     "material": "pelo ou penas de uma besta.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 3° nível ou superior, você pode afetar uma criatura adicional para cada nível do espaço acima do 2°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1516,7 +1516,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 4° nível ou superior, o dano aumenta em 1d8 para cada dois níveis do espaço acima do 2°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1532,7 +1532,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 4° nível ou superior, o bônus aumenta para +2",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1548,7 +1548,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1564,7 +1564,7 @@
     "material": "varetas, ossos ou objetos similarmente marcados valendo, no mínimo, 25 po.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1580,7 +1580,7 @@
     "material": "um pouco de pó de ferro.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1596,7 +1596,7 @@
     "material": "um pequeno quadrado de seda.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1612,7 +1612,7 @@
     "material": "um pedaço de favo de mel e pó de jade valendo, no mínimo, 10 po, consumidos pela magia.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1628,7 +1628,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1644,7 +1644,7 @@
     "material": null,
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 3° nível ou superior, você pode afetar uma criatura adicional para cada nível de espaço acima do 2°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1660,7 +1660,7 @@
     "material": "pó de rubi no valor de 50 po, consumido pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1676,7 +1676,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1692,7 +1692,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1708,7 +1708,7 @@
     "material": "quatro ou mais flechas ou virotes.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 3° nível ou superior, a quantidade de munições que você pode afetar aumenta em dois para cada nível do espaço acima do 2°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1724,7 +1724,7 @@
     "material": "sete espinhos afiados ou sete gravetos, todos com uma ponta afiada.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1740,7 +1740,7 @@
     "material": "uma lasca de mica.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 3° nível ou superior, o dano aumenta em 1d8 para cada nível do espaço acima do 2°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1756,7 +1756,7 @@
     "material": "um pedaço de cobre.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1772,7 +1772,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1788,7 +1788,7 @@
     "material": "pelo de morcego e uma gota de piche ou pedaço de carvão.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1804,7 +1804,7 @@
     "material": "um pouco de seco, uma pitada de enxofre e uma camada de pó de ferro.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 3° nível ou superior, o dano aumenta em 1d6 para cada nível do espaço acima do 2°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1820,7 +1820,7 @@
     "material": "um pedaço de ferro e uma chama.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 3° nível ou superior, o dano aumenta em 1d8 para cada nível do espaço acima do 2°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1836,7 +1836,7 @@
     "material": "folha de ruibarbo em pó e o estômago de uma víbora.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 3° nível ou superior, o dano (tanto inicial quanto posterior) aumenta em 1d4 para cada nível do espaço acima do 2°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1852,7 +1852,7 @@
     "material": "um pouco de lã.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1868,7 +1868,7 @@
     "material": "uma pequena peça de ferro reta.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 3° nível ou superior, você pode afetar um humanoide adicional para cada nível de magia acima do 2°",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1884,7 +1884,7 @@
     "material": "uma pestana envolta em goma- arábica.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 3° nível ou superior, você pode afetar um alvo adicional para cada nível do espaço acima do 2°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1900,7 +1900,7 @@
     "material": "folha de sumagre.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 4° nível ou superior, o dano aumenta em 1d6 para cada dois níveis do espaço acima do 2°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1916,7 +1916,7 @@
     "material": "uma pequena presilha de couro ou um pedaço de fio dourado dobrado em forma de copo com uma haste longa em uma extremidade.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1932,7 +1932,7 @@
     "material": "um pouco de pelo de um cão de caça.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -1948,7 +1948,7 @@
     "material": "um galho bifurcado.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1964,7 +1964,7 @@
     "material": "uma semente de legume.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1980,7 +1980,7 @@
     "material": null,
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 3° nível ou superior, o dano extra aumenta em 1d6 para cada nível do espaço acima do 2°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -1996,7 +1996,7 @@
     "material": "um punhado de comida.",
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 3° nível ou superior, a duração da magia aumenta em 48 horas para cada nível do espaço acima do 2°.",
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2012,7 +2012,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2028,7 +2028,7 @@
     "material": "uma lasca de vidro.",
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 3° nível ou superior, o dano aumenta em 2d4 para cada nível do espaço acima do 2°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2044,7 +2044,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 3° nível ou superior, a cura aumenta em 1d8 para cada nível do espaço acima do 2°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2060,7 +2060,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2076,7 +2076,7 @@
     "material": "cinzas de uma folha de visco queimada e um ramo de pinheiro.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2092,7 +2092,7 @@
     "material": "uma gota de betume e uma aranha.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2108,7 +2108,7 @@
     "material": "um pedaço de casca de carvalho.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2124,7 +2124,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2140,7 +2140,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 3° nível ou superior, você cria um raio adicional para cada nível do espaço acima do 2°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2156,7 +2156,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2172,7 +2172,7 @@
     "material": "várias sementes de qualquer planta lunar e um pedaço de feldspato opalescente.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 3° nível ou superior, o dano aumenta em 1d10 para cada nível do espaço acima do 2°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2188,7 +2188,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2204,7 +2204,7 @@
     "material": "uma pitada de sal e uma peça de cobre colocada em cada um dos olhos do corpo, que devem permanecer ai pela duração.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2220,7 +2220,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2236,7 +2236,7 @@
     "material": null,
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2252,7 +2252,7 @@
     "material": null,
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2268,7 +2268,7 @@
     "material": "uma língua de cobra e, ou um pedaço de favo de mel ou uma gota de azeite doce.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2284,7 +2284,7 @@
     "material": "um pedaço de teia de aranha.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2300,7 +2300,7 @@
     "material": "pó de ouro valendo, no mínimo, 25 po, consumido pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2316,7 +2316,7 @@
     "material": "pó de extrato de milho e um laço de pergaminho trançado.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2332,7 +2332,7 @@
     "material": "um pouco de talco e um pó de prata polvilhado.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2348,7 +2348,7 @@
     "material": "um par de anéis de platina valendo, no mínimo, 50 po cada, que você e o alvo devem usar pela duração.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2364,7 +2364,7 @@
     "material": "ou um pedaço de cenoura seca ou uma ágata.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2380,7 +2380,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2396,7 +2396,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2412,7 +2412,7 @@
     "material": "uma rolha.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2428,7 +2428,7 @@
     "material": "uma gota de sangue, um pedaço de carne e uma punhado de pó de osso.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 4° nível ou superior, você pode animar ou recuperar o controle de duas criaturas mortas-vivas para cada nível do espaço acima do 3°",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2444,7 +2444,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 5° ou 6° nível, o bônus nas jogadas de ataque aumenta pra +2 e o dano extra aumenta para 2d4",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2460,7 +2460,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2476,7 +2476,7 @@
     "material": "uma minúscula bola de guano de morcego e enxofre.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 4° nível ou superior, o dano aumenta em 1d6 para cada nível do espaço acima do 3°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2492,7 +2492,7 @@
     "material": "água benta ou pó de prata e ferro valendo, no mínimo, 100 po, consumidos pela magia.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 4° nível ou superior, a duração aumenta em 1 hora para cada nível do espaço acima do 3°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2508,7 +2508,7 @@
     "material": "um foco valendo, no mínimo, 100 po, também um chifre cravejado de joias para ouvir ou um olho de vidro para ver.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2524,7 +2524,7 @@
     "material": null,
     "higher_level": "Se você conjurar essa magia usando certos espaços de magia superiores, você escolhe uma das opções de invocação acima e mais criaturas aparecem: o dobro delas com um espaço de 5° nível, o triplo delas com um espaço de 7° nível e o quadruplo delas com um espaço de 9° nível.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2540,7 +2540,7 @@
     "material": "uma munição ou arma de arremesso.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2556,7 +2556,7 @@
     "material": null,
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 4° nível ou superior, a magia interrompida não vai gerar efeito se o nível dela for menor ou igual ao nível do espaço de magia que você usar.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2572,7 +2572,7 @@
     "material": null,
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 4° nível ou superior, o dano aumenta em 1d10 para cada nível do espaço acima do 3°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2588,7 +2588,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2604,7 +2604,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2620,7 +2620,7 @@
     "material": "um pouco de pó de diamante valendo 25 po polvilhado sobre o alvo, consumido pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2636,7 +2636,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 4° nível ou superior, você dissipa automaticamente os efeitos de magias no alvo se o nível da magia for igual ou inferior ao nível do espaço de magia que você usar.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2652,7 +2652,7 @@
     "material": "um pequeno e fino pedaço de fio de cobre.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2668,7 +2668,7 @@
     "material": "um símbolo sagrado.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 4° nível ou superior, o dano aumenta em 1d8 para cada nível do espaço acima do 3°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2684,7 +2684,7 @@
     "material": "incenso aceso.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2700,7 +2700,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 4° nível ou superior, o dano de ambos os efeitos da magia aumenta em 1d8 para cada nível do espaço acima do 3°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2716,7 +2716,7 @@
     "material": "um tentáculo de polvo em conserva.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2732,7 +2732,7 @@
     "material": "uma pitada de terra de cemitério.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2748,7 +2748,7 @@
     "material": "um pouco de gaze e um pouco de fumaça.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2764,7 +2764,7 @@
     "material": "incenso e pó de diamante valendo, no mínimo, 200 po, consumidos pela magia.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 4° nível ou superior, o dano do glifo de runas explosivas aumenta em 1d8 para cada nível do espaço acima do 3°",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2780,7 +2780,7 @@
     "material": "uma pequena estátua de argila de um zigurate.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2796,7 +2796,7 @@
     "material": "um pedaço de lã.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 6° nível ou superior, a magia irá durar até ser dissipada, sem necessitar da sua concentração.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2812,7 +2812,7 @@
     "material": "uma gota de melaço.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2828,7 +2828,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2844,7 +2844,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2860,7 +2860,7 @@
     "material": "uma pena branca ou o coração de uma galinha.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2876,7 +2876,7 @@
     "material": null,
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2892,7 +2892,7 @@
     "material": null,
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2908,7 +2908,7 @@
     "material": "um leque minúsculo e uma pena de origem exótica.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2924,7 +2924,7 @@
     "material": "um punhado de poeira e algumas gotas de água.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2940,7 +2940,7 @@
     "material": "um ovo podre ou várias folhas de repolho.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2956,7 +2956,7 @@
     "material": "uma vareta brilhante de incenso ou um frasco de cristal cheio de material fosforescente.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -2972,7 +2972,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 4° nível ou superior, a cura aumenta em 1d4 para cada nível do espaço acima do 3°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -2988,7 +2988,7 @@
     "material": "uma pequena conta de cristal.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3004,7 +3004,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3020,7 +3020,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3036,7 +3036,7 @@
     "material": "um pouco de pelo e uma haste de âmbar, cristal ou vidro.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 4° nível ou superior, o dano aumenta em 1d6 para cada nível do espaço acima do 3°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3052,7 +3052,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3068,7 +3068,7 @@
     "material": "um pedaço de cana ou palha.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3084,7 +3084,7 @@
     "material": "um diamante no valor de 300 po, consumido pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3100,7 +3100,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3116,7 +3116,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3132,7 +3132,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 4° nível ou superior, o dano aumenta em 1d6 para cada nível do espaço acima do 3°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3148,7 +3148,7 @@
     "material": "uma raspa de raiz de alcaçuz.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3164,7 +3164,7 @@
     "material": "uma pena da asa de qualquer pássaro.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 4° nível ou superior, você pode afetar uma criatura adicional para cada nível do espaço acima do 3°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3180,7 +3180,7 @@
     "material": "incenso e uma oferenda apropriada para sacrifício à sua religião, juntos valendo, no mínimo, 25 po, consumidos pela magia.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3196,7 +3196,7 @@
     "material": "um baú requintado, de 90 cm por 60 cm por 60 cm, construído com materiais raros valendo, no mínimo, 5.000 po e uma réplica Miúda feita do mesmo material valendo, no mínimo, 50 po.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3212,7 +3212,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 5° nível ou superior, o dano aumenta em 1d10 para cada nível do espaço acima do 4°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3228,7 +3228,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3244,7 +3244,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3260,7 +3260,7 @@
     "material": "um item desagradável ao alvo.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 5° nível ou superior, você pode afetar uma criatura adicional para cada nível do espaço acima do 4°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3276,7 +3276,7 @@
     "material": "um minúsculo apito de prata, um pedaço de osso e um fio.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3292,7 +3292,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3308,7 +3308,7 @@
     "material": "três cascas de noz.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3324,7 +3324,7 @@
     "material": null,
     "higher_level": "Se você conjurar essa magia usando certos espaços de magia superiores, você escolhe uma das opções de invocação acima e mais criaturas aparecem: o dobro delas com um espaço de 6° nível e o triplo delas com um espaço de 8° nível.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3340,7 +3340,7 @@
     "material": "um fruto sagrado por criatura invocada.",
     "higher_level": "Se você conjurar essa magia usando certos espaços de magia superiores, você escolhe uma das opções de invocação acima e mais criaturas aparecem: o dobro delas com um espaço de 6° nível e o triplo delas com um espaço de 8° nível.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3356,7 +3356,7 @@
     "material": "uma gota de água e uma pitada de poeira.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3372,7 +3372,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3388,7 +3388,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 5° nível, a duração será concentração, até 10 minutos",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3404,7 +3404,7 @@
     "material": "um pouco de fósforo ou um vaga- lume.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3420,7 +3420,7 @@
     "material": "uma peça hemisférica de cristal transparente e uma peça hemisférica que combine de goma arábica.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3436,7 +3436,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3452,7 +3452,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3468,7 +3468,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3484,7 +3484,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3500,7 +3500,7 @@
     "material": "um pouco de pelo de um cão de caça.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3516,7 +3516,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 5° nível ou superior, o dano aumenta em 1d8 para cada nível do espaço acima do 4°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3532,7 +3532,7 @@
     "material": "um casulo de lagarta.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3548,7 +3548,7 @@
     "material": "barro mole, que deve ser trabalhado aproximadamente com a forma desejada para o objeto de pedra.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3564,7 +3564,7 @@
     "material": "uma fita de couro, enrolada no braço ou apêndice similar.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3580,7 +3580,7 @@
     "material": "um pequeno pedaço de fósforo.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 5° nível ou superior, o dano aumenta em 1d8 para cada nível do espaço acima do 4°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3596,7 +3596,7 @@
     "material": "um punhado de pelo de morcego.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3612,7 +3612,7 @@
     "material": "pó de diamante no valor de 100 po, consumido pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3628,7 +3628,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3644,7 +3644,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3660,7 +3660,7 @@
     "material": "uma folha de chumbo, um pedaço de vidro opaco, um chumaço de algodão ou pano e pó de crisólita.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 5° nível ou superior, você pode aumentar o tamanho do cubo em 30 metros de cada lado para cada nível do espaço acima do 4°",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3676,7 +3676,7 @@
     "material": "um pouco de poeira e algumas gotas de água.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 5° nível ou superior, o dano de concussão aumenta em 1d8 para cada nível do espaço acima do 4°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3692,7 +3692,7 @@
     "material": "um pedaço de tentáculo de um polvo gigante ou lula gigante.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3708,7 +3708,7 @@
     "material": "uma pedra, um galho e um pouco de planta verde.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3724,7 +3724,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3740,7 +3740,7 @@
     "material": "uma aljava contendo, pelo menos, uma munição.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3756,7 +3756,7 @@
     "material": "uma joia valendo, no mínimo, 1.000 po, consumida pela magia.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de nível superior, a duração aumenta para 10 dias com um espaço de 6° nível, para 30 dias com um espaço de 7° nível, para 180 dias com um espaço de 8° nível e para um ano com um espaço de magia de 9° nível.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3772,7 +3772,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3788,7 +3788,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3804,7 +3804,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3820,7 +3820,7 @@
     "material": "giz e tintas raros infundidos com pedras preciosas no valor de 50 po, consumidos pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3836,7 +3836,7 @@
     "material": "uma pitada de enxofre.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 6° nível ou superior, o dano de fogo ou o dano radiante (à sua escolha) aumenta em 1d6 por nível do espaço acima do 5°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3852,7 +3852,7 @@
     "material": "incenso e um frasco de água benta ou profana.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3868,7 +3868,7 @@
     "material": null,
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3884,7 +3884,7 @@
     "material": "um pequeno cristal ou cone de vidro.",
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 6° nível ou superior, o dano aumenta em 1d8 para cada nível do espaço acima do 5°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3900,7 +3900,7 @@
     "material": "incenso valendo, no mínimo, 250 po, consumido pela magia e quatro tiras de marfim valendo, no mínimo, 50 po cada.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3916,7 +3916,7 @@
     "material": "incenso aceso para ar, argila mole para terra, enxofre e fósforo para fogo ou água e areia para água.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -3932,7 +3932,7 @@
     "material": "uma munição ou arma de arremesso.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3948,7 +3948,7 @@
     "material": "ervas, óleos e incenso valendo, no mínimo, 1.000 po, consumidos pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3964,7 +3964,7 @@
     "material": null,
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3980,7 +3980,7 @@
     "material": "um pequeno pedaço de material do mesmo tipo do item que você planeja criar.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -3996,7 +3996,7 @@
     "material": "algumas sementes de gergelim.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4012,7 +4012,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4028,7 +4028,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 6° nível ou superior, a cura aumenta em 1d8 para cada nível do espaço acima do 5°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4044,7 +4044,7 @@
     "material": "uma ágata valendo, no mínimo, 1.000 po que será consumida pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4060,7 +4060,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4076,7 +4076,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4092,7 +4092,7 @@
     "material": "água benta ou pó de prata e ferro.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4108,7 +4108,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 6° nível, a duração será concentração, até 10 minutos",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4124,7 +4124,7 @@
     "material": "uma pequena peça de ferro reta.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 6° nível ou superior, você pode afetar uma criatura adicional para cada nível de magia acima do 5°",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4140,7 +4140,7 @@
     "material": "pedaços de cascas de ovos de dois tipos diferentes de criatura.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4156,7 +4156,7 @@
     "material": "uma casca de ovo e uma luva de couro de cobra.",
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 6° nível ou superior, o dano da opção punho cerrado aumenta em 2d8 e o dano da mão esmagadora aumenta em 2d6 para cada nível do espaço acima do 5°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4172,7 +4172,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 7° ou 8° nível, a duração será 1 ano",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4188,7 +4188,7 @@
     "material": null,
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 6° nível ou superior, você pode alterar a memória do alvo de um evento que aconteceu a até 7 dias atrás (6° nível), 30 dias atrás (7° nível), 1 ano atrás (8° nível) ou em qualquer momento do passado da criatura (9° nível).",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4204,7 +4204,7 @@
     "material": "um pouco de pó feito de uma gema transparente esmagada.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4220,7 +4220,7 @@
     "material": "um pequeno bloco de granito.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4236,7 +4236,7 @@
     "material": null,
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 6° nível ou superior, o dano aumenta em 1d8 para cada nível do espaço acima do 5°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4252,7 +4252,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4268,7 +4268,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4284,7 +4284,7 @@
     "material": "alguns grãos de açúcar, alguns miolos de grão e uma mancha de gordura.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 6° nível ou superior, o dano aumenta em 1d10 para cada nível do espaço acima do 5°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4300,7 +4300,7 @@
     "material": "óleos e unguentos raros valendo, no mínimo, 1.000 po, consumidos pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4316,7 +4316,7 @@
     "material": "pó de diamante valendo, no mínimo, 100 po, consumido pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4332,7 +4332,7 @@
     "material": "um diamante valendo, no mínimo, 500 po, consumido pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4348,7 +4348,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4364,7 +4364,7 @@
     "material": "um punhado de areia, um pouco de tinta e uma pena de escrita arrancada de um pássaro adormecido.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4380,7 +4380,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4396,7 +4396,7 @@
     "material": "um foco valendo, no mínimo, 1.000 po, como uma bola de cristal, espelho de prata ou fonte cheia de água benta.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4412,7 +4412,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4428,7 +4428,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4444,7 +4444,7 @@
     "material": "uma tigela encrustada de gemas valendo, no mínimo, 1.000 po, que é consumida pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4460,7 +4460,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4476,7 +4476,7 @@
     "material": "fogo e água benta.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4492,7 +4492,7 @@
     "material": "uma pitada de cal, água e terra.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4508,7 +4508,7 @@
     "material": "o pó de uma pérola negra esmagada valendo, no mínimo, 500 po.",
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 7° nível ou superior, o dano aumenta em 2d6 para cada nível do espaço acima do 6°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4524,7 +4524,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 7° nível ou superior, o nível de desafio aumenta em 1 para cada nível do espaço acima do 6°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4540,7 +4540,7 @@
     "material": "uma estátua sua esculpida em marfim e decorada com gemas valendo, no mínimo, 1.500 po.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4556,7 +4556,7 @@
     "material": "um pouco de pelo; um pedaço de âmbar, vidro ou um bastão de cristal; e três pinos de prata.",
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 7° nível ou superior, um raio adicional salta do alvo primário para outro alvo para cada nível do espaço acima do 6°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4572,7 +4572,7 @@
     "material": "um pote de barro cheio de terra de sepultura, um pote de barro cheio de água salobra, e uma ônix negra no valor de 150 po, para cada corpo.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 7° nível, você pode animar ou recuperar o controle de quatro carniçais",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4588,7 +4588,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 7° nível ou superior, a quantidade de cura aumenta em 10 para cada nível do espaço acima do 6°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4604,7 +4604,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4620,7 +4620,7 @@
     "material": "um ímã e uma pitada de poeira.",
     "higher_level": "Se você conjurar essa magia usando um espaço de magia de 7° nível ou superior, o dano aumenta em 3d6 para cada nível do espaço acima do 6°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4636,7 +4636,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4652,7 +4652,7 @@
     "material": "um conjunto de ferramentas de adivinhação – como ossos, bastões de marfim, dentes ou runas esculpidas – no valor de 100 po e um objeto do lugar que você deseja encontrar.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4668,7 +4668,7 @@
     "material": "uma pequena esfera de cristal.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 7° nível ou superior, o dano aumenta em 1d6 para cada nível do espaço acima do 6°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4684,7 +4684,7 @@
     "material": "uma perola de vidro ou cristal que se despedaça quando a magia termina.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 7° nível ou superior, a barreira bloqueia magias de um nível superior para cada nível do espaço acima do 6°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4700,7 +4700,7 @@
     "material": "um pouco de lã e pó de jade valendo, no mínimo, 25 po.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4716,7 +4716,7 @@
     "material": "uma safira no valor de 1.000 po.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4732,7 +4732,7 @@
     "material": "uma lâmina de ferro e uma pequena sacola contendo uma mistura de solos – argila, barro e areia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4748,7 +4748,7 @@
     "material": "um punhado de espinhos.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 7° nível ou superior, ambos os tipos de dano aumentam em 1d8 para cada nível do espaço acima do 6°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4764,7 +4764,7 @@
     "material": "um pequeno pedaço de quartzo.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 7° nível ou superior, o dano causado quando ela aparece aumenta em 2d6 e o dano por atravessar através da camada de ar gelado aumenta em 1d6 para cada nível do espaço acima do 6°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4780,7 +4780,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4796,7 +4796,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4812,7 +4812,7 @@
     "material": "uma borrifada de água benta, incensos raros e pó de rubi valendo, no mínimo, 1.000 po.",
     "higher_level": null,
     "ritual": true,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4828,7 +4828,7 @@
     "material": "incenso aceso, uma porção de enxofre e óleo, uma corda amarrada, uma porção de sangue de tribulo brutal e um pequeno bastão de prata valendo, no mínimo, 10 po.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4844,7 +4844,7 @@
     "material": "uma lente de aumento.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4860,7 +4860,7 @@
     "material": "uma gema, cristal, relicário ou algum outro tipo de recipiente ornamental valendo, no mínimo, 500 po.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4876,7 +4876,7 @@
     "material": "uma língua de cobra e, ou um pedaço de favo de mel ou uma gota de azeite doce.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 7° nível, a duração será de 10 dias",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4892,7 +4892,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4908,7 +4908,7 @@
     "material": "unguento para os olhos no valor de 25 po; ele é feito de pó de cogumelo, açafrão e gordura; e é consumido pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4924,7 +4924,7 @@
     "material": "uma minúscula bola de guano de morcego e enxofre.",
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 8° nível ou superior, o dano base aumenta e 1d6 para cada nível do espaço acima do 7°.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4940,7 +4940,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 9° nível, você invoca um celestial de nível de desafio 5 ou inferior.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4956,7 +4956,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -4972,7 +4972,7 @@
     "material": "espada de platina em miniatura com cabo e pomo de cobre e zinco valendo, no mínimo, 250 po.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -4988,7 +4988,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 8° nível ou superior, você pode afetar até três criaturas voluntária (incluindo você) para cada nível do espaço acima do 7°",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5004,7 +5004,7 @@
     "material": "um ímã e limalhas de ferro.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -5020,7 +5020,7 @@
     "material": "um composto de pós de diamante, esmeralda, rubi e safira valendo, no mínimo, 5.000 po, consumidos pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5036,7 +5036,7 @@
     "material": "um portal em miniatura esculpido em marfim, um pedaço de mármore polido e uma pequena colher de prata, cada item valendo, no mínimo, 5 po.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5052,7 +5052,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5068,7 +5068,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5084,7 +5084,7 @@
     "material": "pó de rubi no valor de 1.500 po.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5100,7 +5100,7 @@
     "material": "uma pequena réplica sua feita com materiais valendo, no mínimo, 5 po.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -5116,7 +5116,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5132,7 +5132,7 @@
     "material": "uma conta de oração e água benta.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5148,7 +5148,7 @@
     "material": "um diamante valendo, no mínimo, 1.000 po, consumido pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5164,7 +5164,7 @@
     "material": "mercúrio, fósforo e pó de diamante e opala, com um valor total de, no mínimo, 1.000 po, consumidos pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5180,7 +5180,7 @@
     "material": "neve ou gelo em quantidade suficiente para fazer uma cópia em tamanho real da criatura duplicada; algum cabelo, recortes de unha ou outro pedaço do corpo da criatura, colocado dentro da neve ou gelo; e pó de rubi no valor de 1.500 po, polvilhado sobre a duplicata e consumido pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5196,7 +5196,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5212,7 +5212,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5228,7 +5228,7 @@
     "material": "uma haste metálica bifurcada valendo, no mínimo, 250 po, sintonizada com um plano de existência em particular.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5244,7 +5244,7 @@
     "material": "ou um pedaço de alume embebido em vinagre para o efeito de antipatia, ou uma gota de mel para o efeito de simpatia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5260,7 +5260,7 @@
     "material": "um minúsculo relicário valendo, no mínimo, 1.000 po, contendo uma relíquia sagrada, como um pedaço de tecido do robe de um santo ou um pedaço de pergaminho de um texto religioso.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -5276,7 +5276,7 @@
     "material": "um punhado de pó de ferro ou limalhas de ferro.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -5292,7 +5292,7 @@
     "material": "um diamante valendo, no mínimo, 1.000 po e, no mínimo 3 centímetros cúbicos de carne da criatura que será clonada, consumida pela magia, e um receptáculo valendo, no mínimo, 2.000 po que tenha uma tampa selada e seja grande o suficiente para comportar uma criatura Média, como uma urna enorme, um caixão, um cisto cheio de lama no solo ou um recipiente de cristal cheio de água salgada.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5308,7 +5308,7 @@
     "material": "incenso aceso e pedaços de terra e madeira misturados em água.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -5324,7 +5324,7 @@
     "material": null,
     "higher_level": "Quando você conjurar essa magia usando um espaço de magia de 9° nível, a duração será concentração, até 8 horas.",
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -5340,7 +5340,7 @@
     "material": "um punhado de barro, cristal, vidro ou esferas minerais.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5356,7 +5356,7 @@
     "material": "fogo e um pedaço de pedra do sol.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5372,7 +5372,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -5388,7 +5388,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -5404,7 +5404,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5420,7 +5420,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5436,7 +5436,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -5452,7 +5452,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5468,7 +5468,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5484,7 +5484,7 @@
     "material": "um par de anéis de prata unidos.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5500,7 +5500,7 @@
     "material": "um pouco de poeira, uma pedra e um pedaço de barro.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -5516,7 +5516,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -5532,7 +5532,7 @@
     "material": "uma argola de jade valendo, no mínimo, 1.500 po, que você deve colocar na sua cabeça antes de conjurar a magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -5548,7 +5548,7 @@
     "material": "um pergaminho de representação ou uma estatueta esculpida para se parecer com o alvo e um componente especial, que varia de acordo com a versão da magia que você escolher, valendo, no mínimo, 500 po por Dado de Vida.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5564,7 +5564,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5580,7 +5580,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5596,7 +5596,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5612,7 +5612,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -5628,7 +5628,7 @@
     "material": "uma gota de mercúrio, uma porção de goma arábica e um pouco de fumaça.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -5644,7 +5644,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5660,7 +5660,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5676,7 +5676,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5692,7 +5692,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5708,7 +5708,7 @@
     "material": "um diamante valendo, no mínimo, 5.000 po.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   },
   {
@@ -5724,7 +5724,7 @@
     "material": "para cada criatura que você afetar com essa magia, você deve fornecer um jacinto valendo, no mínimo, 1.000 po e uma barra de prata com ornamentos esculpidos valendo, no mínimo, 100 po, todos consumidos pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5740,7 +5740,7 @@
     "material": "um borrifo de água benta e diamantes valendo, no mínimo, 25.000 po, consumidos pela magia.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5756,7 +5756,7 @@
     "material": "uma pena de colibri.",
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": false
   },
   {
@@ -5772,7 +5772,7 @@
     "material": null,
     "higher_level": null,
     "ritual": false,
-    "bookmarked": false,
+    "origin": "PHB",
     "concentration": true
   }
 ]

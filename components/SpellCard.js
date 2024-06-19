@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBookmark as faBookmarkRegular } from "@fortawesome/free-regular-svg-icons";
 import { faBookmark as faBookmarkSolid } from "@fortawesome/free-solid-svg-icons";
 
-const SpellCard = ({ spell, collapsed, bookmarked }) => {
+const SpellCard = ({ spell, collapsed, bookmarked, onBookmarkChange }) => {
   const [isCollapsed, setIsCollapsed] = useState(collapsed);
   const [isBookmarked, setIsBookmarked] = useState(bookmarked);
 
@@ -13,8 +13,15 @@ const SpellCard = ({ spell, collapsed, bookmarked }) => {
     setIsCollapsed(collapsed);
   }, [collapsed]);
 
+  useEffect(() => {
+    setIsBookmarked(bookmarked);
+  }, [bookmarked]);
+
+  const toggleBookmark = () => {
+    onBookmarkChange(spell.id, !isBookmarked);
+  };
+
   const toggleCollapse = () => {
-    console.log(isCollapsed);
     setIsCollapsed(!isCollapsed);
   };
 
@@ -25,8 +32,10 @@ const SpellCard = ({ spell, collapsed, bookmarked }) => {
     <div className="py-4 bg-amber-50 rounded-md text-stone-900 text-sm h-full">
       <div className="px-4">
         <div className="border-b-2 border-b-amber-400 border-opacity-50 flex justify-between gap-2">
-          <h2 className="text-2xl font-serif text-red-800 ">{spell.name}</h2>
-          <button onClick={() => setIsBookmarked(!isBookmarked)}>
+          <h2 className="text-2xl font-serif text-red-800 ">
+            {spell.name} - {isBookmarked}
+          </h2>
+          <button onClick={toggleBookmark}>
             <FontAwesomeIcon
               icon={isBookmarked ? faBookmarkSolid : faBookmarkRegular}
               size="2x"

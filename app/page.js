@@ -2,10 +2,10 @@
 
 import React, { useState, useEffect } from "react";
 import SpellCard from "@/components/SpellCard";
-import { Select, SelectItem, Input } from "@nextui-org/react";
+import { Select, SelectItem, Input, Spinner } from "@nextui-org/react";
 
-import spells from "../public/data/spell-details.json";
-import spellLists from "../public/data/class-spells.json";
+import spellsDetails from "../public/data/spell-details.json";
+import classSpells from "../public/data/class-spells.json";
 
 export default function Home() {
   const [spellsByLevel, setSpellsByLevel] = useState(
@@ -13,7 +13,10 @@ export default function Home() {
   );
 
   const [collapsedStates, setCollapsedStates] = useState(Array(10).fill(false));
+
   const [bookmarks, setBookmarks] = useState([]);
+  const bookmarkOptions = ["Todos", "Favoritos"];
+  const [bookmarkMode, setBookmarkMode] = useState("Todos");
 
   const [classes, setClasses] = useState([]);
   const [selectedClass, setSelectedClass] = useState("");
@@ -26,21 +29,23 @@ export default function Home() {
     setCollapsedStates(newCollapsedStates);
   };
 
-  useEffect(() => {
-    let classesList = ["Todos"];
-
-    Object.keys(spellLists).forEach((classe) => {
-      classesList.push(classe);
+  const handleBookmarkChange = (spellId, isBookmarked) => {
+    setBookmarks((currentBookmarks) => {
+      if (isBookmarked) {
+        return currentBookmarks.includes(spellId)
+          ? currentBookmarks
+          : [...currentBookmarks, spellId];
+      } else {
+        return currentBookmarks.filter((id) => id !== spellId);
+      }
     });
+  };
 
-    setClasses(classesList);
-  }, [spellLists]);
-
-  useEffect(() => {
-    let filteredSpells = spells;
+  const applyFilters = () => {
+    let filteredSpells = spellsDetails;
 
     if (selectedClass && selectedClass !== "Todos") {
-      let spellsClassIds = spellLists[selectedClass];
+      let spellsClassIds = classSpells[selectedClass];
 
       filteredSpells = filteredSpells.filter((spell) =>
         spellsClassIds.includes(spell.id)
@@ -53,6 +58,12 @@ export default function Home() {
       );
     }
 
+    if (bookmarkMode === "Favoritos") {
+      filteredSpells = filteredSpells.filter((spell) =>
+        bookmarks.includes(spell.id)
+      );
+    }
+
     let filteredSpellsByLevel = Array.from({ length: 10 }, () => []);
 
     filteredSpells.forEach((spell) => {
@@ -60,40 +71,88 @@ export default function Home() {
     });
 
     setSpellsByLevel(filteredSpellsByLevel);
-  }, [selectedClass, searchSpell, spellLists, spells]);
+  };
+
+  // Load bookmarks from local storage only on component mount
+  useEffect(() => {
+    const savedBookmarks = localStorage.getItem("bookmarks");
+
+    if (savedBookmarks) {
+      const parsedBookmarks = JSON.parse(savedBookmarks);
+      if (Array.isArray(parsedBookmarks)) {
+        setBookmarks(parsedBookmarks);
+      }
+    }
+  }, []);
+
+  // Save bookmarks to local storage whenever they change
+  useEffect(() => {
+    if (bookmarks.length > 0) {
+      localStorage.setItem("bookmarks", JSON.stringify(bookmarks));
+    }
+  }, [bookmarks]);
+
+  // Initialize classes list from classSpells data
+  useEffect(() => {
+    const classesList = ["Todos", ...Object.keys(classSpells)];
+
+    setClasses(classesList);
+  }, [classSpells]);
+
+  // Apply filters whenever dependencies change
+  useEffect(() => {
+    applyFilters();
+  }, [selectedClass, searchSpell, bookmarkMode]);
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <h1 className="text-4xl font-bold font-serif text-red-800">
+    <main className="flex min-h-screen flex-col items-center justify-between m-12">
+      <h1 className="text-4xl font-bold font-serif text-red-800 p-12">
         Grimório 5e
       </h1>
 
-      <div className="grid lg:grid-cols-3 w-full gap-4">
-        <div className="lg:col-span-2 flex items-center">
+      <div className="grid lg:grid-cols-8 w-full gap-4 py-8">
+        <div className="col-span-8 lg:col-span-4 flex items-center">
           <Input
             placeholder="Buscar magia"
             onChange={(e) => setSearchSpell(e.target.value)}
           />
         </div>
 
-        <Select
-          label="Classe"
-          onSelectionChange={(selectedValue) => {
-            setSelectedClass(Array.from(selectedValue)[0]);
-          }}
-        >
-          {classes.map((classeName) => (
-            <SelectItem key={classeName} value={classeName}>
-              {classeName}
-            </SelectItem>
-          ))}
-        </Select>
+        <div className="col-span-8 md:col-span-4 lg:col-span-2">
+          <Select
+            label="Filtrar por classe"
+            onSelectionChange={(selectedValue) => {
+              setSelectedClass(Array.from(selectedValue)[0]);
+            }}
+          >
+            {classes.map((classeName) => (
+              <SelectItem key={classeName} value={classeName}>
+                {classeName}
+              </SelectItem>
+            ))}
+          </Select>
+        </div>
+
+        <div className="col-span-8 md:col-span-4 lg:col-span-2">
+          <Select
+            label="Filtrar por favoritos"
+            onSelectionChange={(selectedValue) => {
+              setBookmarkMode(Array.from(selectedValue)[0]);
+            }}
+          >
+            {bookmarkOptions.map((option) => (
+              <SelectItem key={option} value={option}>
+                {option}
+              </SelectItem>
+            ))}
+          </Select>
+        </div>
       </div>
 
       {spellsByLevel.map(
-        (spells, index) =>
-          spells.length > 0 && (
-            <div key={index} className="mt-6 w-screen p-8">
+        (spellsDetails, index) =>
+          spellsDetails.length > 0 && (
+            <div key={index} className="w-screen p-12">
               <div className="flex justify-between text-sm">
                 <h2 className="text-2xl font-bold font-serif text-red-800">
                   {index === 0 ? "Truques" : `Magias de ${index}º Nível`}
@@ -105,17 +164,22 @@ export default function Home() {
               </div>
 
               <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-                {spells.map((spell, jindex) => (
+                {spellsDetails.map((spell, jindex) => (
                   <SpellCard
                     key={jindex}
                     spell={spell}
                     collapsed={collapsedStates[index]}
                     bookmarked={bookmarks.includes(spell.id)}
+                    onBookmarkChange={handleBookmarkChange}
                   />
                 ))}
               </div>
             </div>
           )
+      )}
+
+      {spellsByLevel.filter((arr) => arr.length === 0) && (
+        <Spinner size="lg" color="warning" />
       )}
 
       <footer className="text-sm pt-8">
