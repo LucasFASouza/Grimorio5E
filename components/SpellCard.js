@@ -33,7 +33,7 @@ const SpellCard = ({ spell, collapsed, bookmarked, onBookmarkChange }) => {
       <div className="px-4">
         <div className="border-b-2 border-b-amber-400 border-opacity-50 flex justify-between gap-2">
           <h2 className="text-2xl font-serif text-red-800 ">
-            {spell.name} - {isBookmarked}
+            {spell.name}
           </h2>
           <button onClick={toggleBookmark}>
             <FontAwesomeIcon
