@@ -40,10 +40,7 @@ const SpellCard = ({ spell, collapsed }) => {
       </div>
 
       {!isCollapsed && (
-        <div
-          style={{ overflowY: "auto" }}
-          className="px-4 max-h-[500px]"
-        >
+        <div style={{ overflowY: "auto" }} className="px-4 max-h-[500px]">
           <p className="italic">
             {spell.level > 0
               ? `${capitalizeFirstLetter(spell.school)} de ${
@@ -71,18 +68,14 @@ const SpellCard = ({ spell, collapsed }) => {
           </p>
           <div className="pt-4">
             {spell.description.split("\n").map((line, index) => (
-              <React.Fragment key={index}>
-                <p>{line}</p>
-              </React.Fragment>
+              <p key={index}>{line}</p>
             ))}
           </div>
           {spell.higher_level && (
             <div className="pt-4">
               <strong>Em Níveis Superiores:</strong>
               {spell.higher_level.split("\n").map((line, index) => (
-                <React.Fragment key={index}>
-                  <p>{line}</p>
-                </React.Fragment>
+                <p key={index}>{line}</p>
               ))}
             </div>
           )}
