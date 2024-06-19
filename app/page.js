@@ -12,6 +12,8 @@ export default function Home() {
     Array.from({ length: 10 }, () => [])
   );
 
+  const [loading, setLoading] = useState(true);
+
   const [collapsedStates, setCollapsedStates] = useState(Array(10).fill(false));
 
   const [bookmarks, setBookmarks] = useState([]);
@@ -42,6 +44,8 @@ export default function Home() {
   };
 
   const applyFilters = () => {
+    setLoading(true);
+
     let filteredSpells = spellsDetails;
 
     if (selectedClass && selectedClass !== "Todos") {
@@ -70,7 +74,7 @@ export default function Home() {
       filteredSpellsByLevel[spell.level].push(spell);
     });
 
-    setSpellsByLevel(filteredSpellsByLevel);
+    setSpellsByLevel(filteredSpellsByLevel).then(() => setLoading(false));
   };
 
   // Load bookmarks from local storage only on component mount
@@ -178,7 +182,7 @@ export default function Home() {
           )
       )}
 
-      {spellsByLevel.filter((arr) => arr.length === 0) && (
+      {loading && (
         <Spinner size="lg" color="warning" />
       )}
 
