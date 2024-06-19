@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 import SpellCard from "@/components/SpellCard";
-import { Select, SelectItem } from "@nextui-org/react";
+import { Select, SelectItem, Input } from "@nextui-org/react";
 
 import spells from "../public/data/spell-details.json";
 import spellLists from "../public/data/class-spells.json";
@@ -16,6 +16,7 @@ export default function Home() {
 
   const [classes, setClasses] = useState([]);
   const [selectedClass, setSelectedClass] = useState("");
+  const [searchSpell, setSearchSpell] = useState("");
 
   const toggleCollapse = (level) => {
     const newCollapsedStates = [...collapsedStates];
@@ -44,6 +45,12 @@ export default function Home() {
       );
     }
 
+    if (searchSpell) {
+      filteredSpells = filteredSpells.filter((spell) =>
+        spell.name.toLowerCase().includes(searchSpell.toLowerCase())
+      );
+    }
+
     let filteredSpellsByLevel = Array.from({ length: 10 }, () => []);
 
     filteredSpells.forEach((spell) => {
@@ -51,7 +58,7 @@ export default function Home() {
     });
 
     setSpellsByLevel(filteredSpellsByLevel);
-  }, [selectedClass, spellLists, spells]);
+  }, [selectedClass, searchSpell, spellLists, spells]);
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
@@ -59,18 +66,27 @@ export default function Home() {
         Grimório 5e
       </h1>
 
-      <Select
-        label="Classe"
-        onSelectionChange={(selectedValue) => {
-          setSelectedClass(Array.from(selectedValue)[0]);
-        }}
-      >
-        {classes.map((classeName) => (
-          <SelectItem key={classeName} value={classeName}>
-            {classeName}
-          </SelectItem>
-        ))}
-      </Select>
+      <div className="grid lg:grid-cols-3 w-full gap-4">
+        <div className="lg:col-span-2 flex items-center">
+          <Input
+            placeholder="Buscar magia"
+            onChange={(e) => setSearchSpell(e.target.value)}
+          />
+        </div>
+
+        <Select
+          label="Classe"
+          onSelectionChange={(selectedValue) => {
+            setSelectedClass(Array.from(selectedValue)[0]);
+          }}
+        >
+          {classes.map((classeName) => (
+            <SelectItem key={classeName} value={classeName}>
+              {classeName}
+            </SelectItem>
+          ))}
+        </Select>
+      </div>
 
       {spellsByLevel.map(
         (spells, index) =>
