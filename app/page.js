@@ -74,17 +74,19 @@ export default function Home() {
 
       {spellsByLevel.map((spells, index) => (
         <div key={index} className="mt-6 w-screen p-8">
-          <h2 className="text-2xl font-bold font-serif text-red-800">
-            {index === 0 ? "Truques" : `Magias de ${index}º Nível`}
-          </h2>
+          <div className="flex justify-between text-sm">
+            <h2 className="text-2xl font-bold font-serif text-red-800">
+              {index === 0 ? "Truques" : `Magias de ${index}º Nível`}
+            </h2>
 
-          <button onClick={() => toggleCollapse(index)}>
-            {collapsedStates[index] ? "Mostrar todos" : "Recolher todos"}
-          </button>
+            <button onClick={() => toggleCollapse(index)}>
+              {collapsedStates[index] ? "Mostrar todos" : "Recolher todos"}
+            </button>
+          </div>
 
-          <div className="flex flex-wrap gap-4 justify-around">
+          <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
             {spells.map((spell, jindex) => (
-              <div className="md:w-[48%] lg:w-[23%]">
+              <div>
                 <SpellCard
                   key={jindex}
                   spell={spell}

@@ -1,8 +1,13 @@
 "use client";
 import React, { useState, useEffect } from "react";
 
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faBookmark as faBookmarkRegular } from "@fortawesome/free-regular-svg-icons";
+import { faBookmark as faBookmarkSolid } from "@fortawesome/free-solid-svg-icons";
+
 const SpellCard = ({ spell, collapsed }) => {
   const [isCollapsed, setIsCollapsed] = useState(collapsed);
+  const [isBookmarked, setIsBookmarked] = useState(false);
 
   useEffect(() => {
     setIsCollapsed(collapsed);
@@ -17,18 +22,29 @@ const SpellCard = ({ spell, collapsed }) => {
     string.charAt(0).toUpperCase() + string.slice(1);
 
   return (
-    <div className="p-4 bg-amber-50 rounded-md text-stone-900">
-      <div>
-        <h2 className="text-2xl font-serif text-red-800 border-b-2 border-b-amber-400 border-opacity-50">
-          {spell.name}
-        </h2>
-        <button onClick={toggleCollapse} className="text-sm pb-4">
+    <div className="py-4 bg-amber-50 rounded-md text-stone-900 text-sm h-full">
+      <div className="px-4">
+        <div className="border-b-2 border-b-amber-400 border-opacity-50 flex justify-between gap-2">
+          <h2 className="text-2xl font-serif text-red-800 ">{spell.name}</h2>
+          <button onClick={() => setIsBookmarked(!isBookmarked)}>
+            <FontAwesomeIcon
+              icon={isBookmarked ? faBookmarkSolid : faBookmarkRegular}
+              size="2x"
+              className="text-2xl font-serif text-red-800 hover:text-red-600"
+            />
+          </button>
+        </div>
+        <button onClick={toggleCollapse} className="pb-4">
           {isCollapsed ? "Mostrar mais" : "Mostrar menos"}
         </button>
       </div>
+
       {!isCollapsed && (
-        <div className="text-sm">
-          <p className=" italic">
+        <div
+          style={{ overflowY: "auto" }}
+          className="px-4 max-h-[500px]"
+        >
+          <p className="italic">
             {spell.level > 0
               ? `${capitalizeFirstLetter(spell.school)} de ${
                   spell.level
