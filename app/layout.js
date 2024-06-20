@@ -1,4 +1,5 @@
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import { Open_Sans } from "next/font/google";
 import "./globals.css";
 
@@ -16,6 +17,7 @@ export default function RootLayout({ children }) {
       <body className={openSans.className}>
         {children}
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
