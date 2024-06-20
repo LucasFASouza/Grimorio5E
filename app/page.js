@@ -224,7 +224,7 @@ export default function Home() {
           >
             Lucas
           </a>{" "}
-          para meus aventureiros Anna e Pedro.
+          para meus aventureiros, Anna & Pedro.
         </p>
       </footer>
     </main>
