@@ -49,7 +49,7 @@ const SpellCard = ({ spell, collapsed, bookmarked, onBookmarkChange }) => {
       </div>
 
       {!isCollapsed && (
-        <div style={{ overflowY: "auto" }} className="px-4 max-h-[500px]">
+        <div style={{ overflowY: "auto" }} className="px-4 h-[450px]">
           
           <p className="italic">
             {spell.level > 0
