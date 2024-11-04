@@ -222,14 +222,14 @@ export default function Home() {
         </p>
 
         <p>
-          Desenvolivda por{" "}
+          Desenvolvido por{" "}
           <a
             className="font-semibold underline"
             href="https://github.com/LucasFASouza"
           >
             Lucas
           </a>{" "}
-          para meus aventureiros, Anna & Pedro.
+          para meus aventureiros: Anna & Pedro.
         </p>
       </footer>
     </main>
