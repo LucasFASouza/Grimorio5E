@@ -1,6 +1,7 @@
 [
   {
     "id": "amizade",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 0,
     "name": "Amizade",
     "school": "encantamento",
@@ -17,6 +18,7 @@
   },
   {
     "id": "ataque certeiro",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 0,
     "name": "Ataque Certeiro",
     "school": "adivinhação",
@@ -33,6 +35,7 @@
   },
   {
     "id": "bordão místico",
+    "spell_lists": ["Druida"],
     "level": 0,
     "name": "Bordão Místico",
     "school": "transmutação",
@@ -49,6 +52,7 @@
   },
   {
     "id": "chama sagrada",
+    "spell_lists": ["Clérigo"],
     "level": 0,
     "name": "Chama Sagrada",
     "school": "evocação",
@@ -65,6 +69,7 @@
   },
   {
     "id": "chicote de espinhos",
+    "spell_lists": ["Druida"],
     "level": 0,
     "name": "Chicote de Espinhos",
     "school": "transmutação",
@@ -81,6 +86,7 @@
   },
   {
     "id": "consertar",
+    "spell_lists": ["Bardo", "Clérigo", "Druida", "Feiticeiro", "Mago"],
     "level": 0,
     "name": "Consertar",
     "school": "transmutação",
@@ -97,6 +103,7 @@
   },
   {
     "id": "criar chamas",
+    "spell_lists": ["Druida"],
     "level": 0,
     "name": "Criar Chamas",
     "school": "conjuração",
@@ -113,6 +120,7 @@
   },
   {
     "id": "druidismo",
+    "spell_lists": ["Druida"],
     "level": 0,
     "name": "Druidismo",
     "school": "transmutação",
@@ -129,6 +137,7 @@
   },
   {
     "id": "espirro ácido",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 0,
     "name": "Espirro Ácido",
     "school": "conjuração",
@@ -145,6 +154,7 @@
   },
   {
     "id": "estabilizar",
+    "spell_lists": ["Clérigo"],
     "level": 0,
     "name": "Estabilizar",
     "school": "necromancia",
@@ -161,6 +171,7 @@
   },
   {
     "id": "globos de luz",
+    "spell_lists": ["Bardo", "Feiticeiro", "Mago"],
     "level": 0,
     "name": "Globos de Luz",
     "school": "evocação",
@@ -177,6 +188,7 @@
   },
   {
     "id": "ilusão menor",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 0,
     "name": "Ilusão Menor",
     "school": "ilusão",
@@ -193,6 +205,7 @@
   },
   {
     "id": "luz",
+    "spell_lists": ["Clérigo", "Feiticeiro", "Mago"],
     "level": 0,
     "name": "Luz",
     "school": "evocação",
@@ -209,6 +222,7 @@
   },
   {
     "id": "mãos mágicas",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 0,
     "name": "Mãos Mágicas",
     "school": "conjuração",
@@ -225,6 +239,7 @@
   },
   {
     "id": "mensagem",
+    "spell_lists": ["Bardo", "Feiticeiro", "Mago"],
     "level": 0,
     "name": "Mensagem",
     "school": "transmutação",
@@ -241,6 +256,7 @@
   },
   {
     "id": "orientação",
+    "spell_lists": ["Clérigo", "Druida"],
     "level": 0,
     "name": "Orientação",
     "school": "adivinhação",
@@ -257,6 +273,7 @@
   },
   {
     "id": "prestidigitação",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 0,
     "name": "Prestidigitação",
     "school": "transmutação",
@@ -273,6 +290,7 @@
   },
   {
     "id": "proteção contra lâminas",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 0,
     "name": "Proteção contra Lâminas",
     "school": "abjuração",
@@ -289,6 +307,7 @@
   },
   {
     "id": "raio de fogo",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 0,
     "name": "Raio de Fogo",
     "school": "evocação",
@@ -305,6 +324,7 @@
   },
   {
     "id": "raio de gelo",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 0,
     "name": "Raio de Gelo",
     "school": "evocação",
@@ -321,6 +341,7 @@
   },
   {
     "id": "rajada de veneno",
+    "spell_lists": ["Bruxo", "Druida", "Feiticeiro", "Mago"],
     "level": 0,
     "name": "Rajada de Veneno",
     "school": "conjuração",
@@ -337,6 +358,7 @@
   },
   {
     "id": "rajada mística",
+    "spell_lists": ["Bruxo"],
     "level": 0,
     "name": "Rajada Mística",
     "school": "evocação",
@@ -353,6 +375,7 @@
   },
   {
     "id": "resistência",
+    "spell_lists": ["Clérigo", "Druida"],
     "level": 0,
     "name": "Resistência",
     "school": "abjuração",
@@ -369,6 +392,7 @@
   },
   {
     "id": "taumaturgia",
+    "spell_lists": ["Clérigo"],
     "level": 0,
     "name": "Taumaturgia",
     "school": "transmutação",
@@ -385,6 +409,7 @@
   },
   {
     "id": "toque arrepiante",
+    "spell_lists": ["Bruxo", "Feiticeiro", "Mago"],
     "level": 0,
     "name": "Toque Arrepiante",
     "school": "necromancia",
@@ -401,6 +426,7 @@
   },
   {
     "id": "toque chocante",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 0,
     "name": "Toque Chocante",
     "school": "evocação",
@@ -417,6 +443,7 @@
   },
   {
     "id": "zombaria viciosa",
+    "spell_lists": ["Bardo"],
     "level": 0,
     "name": "Zombaria Viciosa",
     "school": "encantamento",
@@ -433,6 +460,7 @@
   },
   {
     "id": "alarme",
+    "spell_lists": ["Mago", "Patrulheiro"],
     "level": 1,
     "name": "Alarme",
     "school": "abjuração",
@@ -449,6 +477,7 @@
   },
   {
     "id": "amizade animal",
+    "spell_lists": ["Bardo", "Druida", "Patrulheiro"],
     "level": 1,
     "name": "Amizade Animal",
     "school": "encantamento",
@@ -465,6 +494,7 @@
   },
   {
     "id": "área escorregadia",
+    "spell_lists": ["Mago"],
     "level": 1,
     "name": "Área Escorregadia",
     "school": "conjuração",
@@ -481,6 +511,7 @@
   },
   {
     "id": "armadura arcana",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 1,
     "name": "Armadura Arcana",
     "school": "abjuração",
@@ -497,6 +528,7 @@
   },
   {
     "id": "armadura de agathys",
+    "spell_lists": ["Bruxo"],
     "level": 1,
     "name": "Armadura de Agathys",
     "school": "abjuração",
@@ -513,6 +545,7 @@
   },
   {
     "id": "auxílio divino",
+    "spell_lists": ["Paladino"],
     "level": 1,
     "name": "Auxílio Divino",
     "school": "evocação",
@@ -529,6 +562,7 @@
   },
   {
     "id": "bênção",
+    "spell_lists": ["Clérigo", "Paladino"],
     "level": 1,
     "name": "Bênção",
     "school": "encantamento",
@@ -545,6 +579,7 @@
   },
   {
     "id": "bom fruto",
+    "spell_lists": ["Druida", "Patrulheiro"],
     "level": 1,
     "name": "Bom Fruto",
     "school": "transmutação",
@@ -561,6 +596,7 @@
   },
   {
     "id": "braços de hadar",
+    "spell_lists": ["Bruxo"],
     "level": 1,
     "name": "Braços de Hadar",
     "school": "conjuração",
@@ -577,6 +613,7 @@
   },
   {
     "id": "bruxaria",
+    "spell_lists": ["Bruxo"],
     "level": 1,
     "name": "Bruxaria",
     "school": "encantamento",
@@ -593,6 +630,7 @@
   },
   {
     "id": "comando",
+    "spell_lists": ["Clérigo", "Paladino"],
     "level": 1,
     "name": "Comando",
     "school": "encantamento",
@@ -609,6 +647,7 @@
   },
   {
     "id": "compreender idiomas",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 1,
     "name": "Compreender Idiomas",
     "school": "adivinhação",
@@ -625,6 +664,7 @@
   },
   {
     "id": "constrição",
+    "spell_lists": ["Druida"],
     "level": 1,
     "name": "Constrição",
     "school": "conjuração",
@@ -641,6 +681,7 @@
   },
   {
     "id": "convocar familiar",
+    "spell_lists": ["Mago"],
     "level": 1,
     "name": "Convocar Familiar",
     "school": "conjuração",
@@ -657,6 +698,7 @@
   },
   {
     "id": "criar ou destruir água",
+    "spell_lists": ["Clérigo", "Druida"],
     "level": 1,
     "name": "Criar ou Destruir Água",
     "school": "transmutação",
@@ -673,6 +715,7 @@
   },
   {
     "id": "curar ferimentos",
+    "spell_lists": ["Bardo", "Clérigo", "Druida", "Paladino", "Patrulheiro"],
     "level": 1,
     "name": "Curar Ferimentos",
     "school": "evocação",
@@ -689,6 +732,7 @@
   },
   {
     "id": "destruição colérica",
+    "spell_lists": ["Paladino"],
     "level": 1,
     "name": "Destruição Colérica",
     "school": "evocação",
@@ -705,6 +749,7 @@
   },
   {
     "id": "destruição lancinante",
+    "spell_lists": ["Paladino"],
     "level": 1,
     "name": "Destruição Lancinante",
     "school": "evocação",
@@ -721,6 +766,7 @@
   },
   {
     "id": "destruição trovejante",
+    "spell_lists": ["Paladino"],
     "level": 1,
     "name": "Destruição Trovejante",
     "school": "evocação",
@@ -737,6 +783,7 @@
   },
   {
     "id": "detectar o bem e mal",
+    "spell_lists": ["Clérigo", "Paladino"],
     "level": 1,
     "name": "Detectar o Bem e Mal",
     "school": "adivinhação",
@@ -753,6 +800,15 @@
   },
   {
     "id": "detectar magia",
+    "spell_lists": [
+      "Bardo",
+      "Clérigo",
+      "Druida",
+      "Feiticeiro",
+      "Mago",
+      "Paladino",
+      "Patrulheiro"
+    ],
     "level": 1,
     "name": "Detectar Magia",
     "school": "adivinhação",
@@ -769,6 +825,7 @@
   },
   {
     "id": "detectar veneno e doença",
+    "spell_lists": ["Clérigo", "Druida", "Paladino", "Patrulheiro"],
     "level": 1,
     "name": "Detectar Veneno e Doença",
     "school": "adivinhação",
@@ -785,6 +842,7 @@
   },
   {
     "id": "disco flutuante de tenser",
+    "spell_lists": ["Mago"],
     "level": 1,
     "name": "Disco Flutuante de Tenser",
     "school": "conjuração",
@@ -801,6 +859,7 @@
   },
   {
     "id": "disfarçar-se",
+    "spell_lists": ["Bardo", "Feiticeiro", "Mago"],
     "level": 1,
     "name": "Disfarçar-se",
     "school": "ilusão",
@@ -817,6 +876,7 @@
   },
   {
     "id": "duelo compelido",
+    "spell_lists": ["Paladino"],
     "level": 1,
     "name": "Duelo Compelido",
     "school": "encantamento",
@@ -833,6 +893,7 @@
   },
   {
     "id": "enfeitiçar pessoa",
+    "spell_lists": ["Bruxo", "Druida", "Feiticeiro", "Mago"],
     "level": 1,
     "name": "Enfeitiçar Pessoa",
     "school": "encantamento",
@@ -849,6 +910,7 @@
   },
   {
     "id": "escrita ilusória",
+    "spell_lists": ["Bardo", "Bruxo", "Mago"],
     "level": 1,
     "name": "Escrita Ilusória",
     "school": "ilusão",
@@ -865,6 +927,7 @@
   },
   {
     "id": "escudo arcano",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 1,
     "name": "Escudo Arcano",
     "school": "abjuração",
@@ -881,6 +944,7 @@
   },
   {
     "id": "escudo da fé",
+    "spell_lists": ["Clérigo", "Paladino"],
     "level": 1,
     "name": "Escudo da Fé",
     "school": "abjuração",
@@ -897,6 +961,7 @@
   },
   {
     "id": "falar com animais",
+    "spell_lists": ["Bardo", "Druida", "Patrulheiro"],
     "level": 1,
     "name": "Falar com Animais",
     "school": "adivinhação",
@@ -913,6 +978,7 @@
   },
   {
     "id": "falar com plantas",
+    "spell_lists": ["Bardo", "Druida"],
     "level": 1,
     "name": "Falar com Plantas",
     "school": "adivinhação",
@@ -929,6 +995,7 @@
   },
   {
     "id": "fogo das fadas",
+    "spell_lists": ["Bardo", "Druida"],
     "level": 1,
     "name": "Fogo das Fadas",
     "school": "evocação",
@@ -945,6 +1012,7 @@
   },
   {
     "id": "golpe constritor",
+    "spell_lists": ["Patrulheiro"],
     "level": 1,
     "name": "Golpe Constritor",
     "school": "conjuração",
@@ -961,6 +1029,7 @@
   },
   {
     "id": "heroísmo",
+    "spell_lists": ["Bardo", "Paladino"],
     "level": 1,
     "name": "Heroísmo",
     "school": "encantamento",
@@ -977,6 +1046,7 @@
   },
   {
     "id": "identificação",
+    "spell_lists": ["Bardo", "Mago"],
     "level": 1,
     "name": "Identificação",
     "school": "adivinhação",
@@ -993,6 +1063,7 @@
   },
   {
     "id": "imagem silenciosa",
+    "spell_lists": ["Bardo", "Feiticeiro", "Mago"],
     "level": 1,
     "name": "Imagem Silenciosa",
     "school": "ilusão",
@@ -1009,6 +1080,7 @@
   },
   {
     "id": "infligir ferimentos",
+    "spell_lists": ["Clérigo"],
     "level": 1,
     "name": "Infligir Ferimentos",
     "school": "necromancia",
@@ -1025,6 +1097,7 @@
   },
   {
     "id": "leque cromático",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 1,
     "name": "Leque Cromático",
     "school": "ilusão",
@@ -1041,6 +1114,7 @@
   },
   {
     "id": "mãos flamejantes",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 1,
     "name": "Mãos Flamejantes",
     "school": "evocação",
@@ -1057,6 +1131,7 @@
   },
   {
     "id": "marca do caçador",
+    "spell_lists": ["Patrulheiro"],
     "level": 1,
     "name": "Marca do Caçador",
     "school": "adivinhação",
@@ -1073,6 +1148,7 @@
   },
   {
     "id": "mísseis mágicos",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 1,
     "name": "Mísseis Mágicos",
     "school": "evocação",
@@ -1089,6 +1165,7 @@
   },
   {
     "id": "névoa obscurecente",
+    "spell_lists": ["Druida", "Feiticeiro", "Mago", "Patrulheiro"],
     "level": 1,
     "name": "Névoa Obscurecente",
     "school": "conjuração",
@@ -1105,6 +1182,7 @@
   },
   {
     "id": "onda trovejante",
+    "spell_lists": ["Bardo", "Druida", "Feiticeiro", "Mago"],
     "level": 1,
     "name": "Onda Trovejante",
     "school": "evocação",
@@ -1121,6 +1199,7 @@
   },
   {
     "id": "orbe cromática",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 1,
     "name": "Orbe Cromática",
     "school": "evocação",
@@ -1137,6 +1216,7 @@
   },
   {
     "id": "palavra curativa",
+    "spell_lists": ["Bardo", "Clérigo", "Druida"],
     "level": 1,
     "name": "Palavra Curativa",
     "school": "evocação",
@@ -1153,6 +1233,7 @@
   },
   {
     "id": "passos longos",
+    "spell_lists": ["Bardo", "Druida", "Mago", "Patrulheiro"],
     "level": 1,
     "name": "Passos Longos",
     "school": "transmutação",
@@ -1169,6 +1250,7 @@
   },
   {
     "id": "perdição",
+    "spell_lists": ["Bardo", "Clérigo"],
     "level": 1,
     "name": "Perdição",
     "school": "encantamento",
@@ -1185,6 +1267,7 @@
   },
   {
     "id": "proteção contra o bem e mal",
+    "spell_lists": ["Bruxo", "Clérigo", "Mago", "Paladino"],
     "level": 1,
     "name": "Proteção contra o Bem e Mal",
     "school": "abjuração",
@@ -1201,6 +1284,7 @@
   },
   {
     "id": "purificar alimentos",
+    "spell_lists": ["Clérigo", "Druida", "Paladino"],
     "level": 1,
     "name": "Purificar Alimentos",
     "school": "transmutação",
@@ -1217,6 +1301,7 @@
   },
   {
     "id": "queda suave",
+    "spell_lists": ["Bardo", "Feiticeiro", "Mago"],
     "level": 1,
     "name": "Queda Suave",
     "school": "transmutação",
@@ -1233,6 +1318,7 @@
   },
   {
     "id": "raio adoecente",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 1,
     "name": "Raio Adoecente",
     "school": "necromancia",
@@ -1249,6 +1335,7 @@
   },
   {
     "id": "raio de bruxa",
+    "spell_lists": ["Bruxo", "Feiticeiro", "Mago"],
     "level": 1,
     "name": "Raio de Bruxa",
     "school": "evocação",
@@ -1265,6 +1352,7 @@
   },
   {
     "id": "raio guiador",
+    "spell_lists": ["Clérigo"],
     "level": 1,
     "name": "Raio Guiador",
     "school": "evocação",
@@ -1281,6 +1369,7 @@
   },
   {
     "id": "recuo acelerado",
+    "spell_lists": ["Bruxo", "Feiticeiro", "Mago"],
     "level": 1,
     "name": "Recuo Acelerado",
     "school": "transmutação",
@@ -1297,6 +1386,7 @@
   },
   {
     "id": "repreensão infernal",
+    "spell_lists": ["Bruxo"],
     "level": 1,
     "name": "Repreensão Infernal",
     "school": "evocação",
@@ -1313,6 +1403,7 @@
   },
   {
     "id": "riso histérico de tasha",
+    "spell_lists": ["Bardo", "Mago"],
     "level": 1,
     "name": "Riso Histérico de Tasha",
     "school": "encantamento",
@@ -1329,6 +1420,7 @@
   },
   {
     "id": "salto",
+    "spell_lists": ["Druida", "Feiticeiro", "Mago", "Patrulheiro"],
     "level": 1,
     "name": "Salto",
     "school": "transmutação",
@@ -1345,6 +1437,7 @@
   },
   {
     "id": "santuário",
+    "spell_lists": ["Clérigo"],
     "level": 1,
     "name": "Santuário",
     "school": "abjuração",
@@ -1361,6 +1454,7 @@
   },
   {
     "id": "saraivada de espinhos",
+    "spell_lists": ["Patrulheiro"],
     "level": 1,
     "name": "Saraivada de Espinhos",
     "school": "conjuração",
@@ -1377,6 +1471,7 @@
   },
   {
     "id": "servo invisível",
+    "spell_lists": ["Bardo", "Bruxo", "Mago"],
     "level": 1,
     "name": "Servo Invisível",
     "school": "conjuração",
@@ -1393,6 +1488,7 @@
   },
   {
     "id": "sono",
+    "spell_lists": ["Bardo", "Feiticeiro", "Mago"],
     "level": 1,
     "name": "Sono",
     "school": "encantamento",
@@ -1409,6 +1505,7 @@
   },
   {
     "id": "sussurros dissonantes",
+    "spell_lists": ["Bardo"],
     "level": 1,
     "name": "Sussurros Dissonantes",
     "school": "encantamento",
@@ -1425,6 +1522,7 @@
   },
   {
     "id": "vitalidade falsa",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 1,
     "name": "Vitalidade Falsa",
     "school": "necromancia",
@@ -1441,6 +1539,7 @@
   },
   {
     "id": "acalmar emoções",
+    "spell_lists": ["Bardo", "Clérigo"],
     "level": 2,
     "name": "Acalmar Emoções",
     "school": "encantamento",
@@ -1457,6 +1556,7 @@
   },
   {
     "id": "ajuda",
+    "spell_lists": ["Clérigo", "Paladino"],
     "level": 2,
     "name": "Ajuda",
     "school": "abjuração",
@@ -1473,6 +1573,7 @@
   },
   {
     "id": "alterar-se",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 2,
     "name": "Alterar-se",
     "school": "transmutação",
@@ -1489,6 +1590,7 @@
   },
   {
     "id": "aprimorar habilidade",
+    "spell_lists": ["Bardo", "Clérigo", "Druida", "Feiticeiro"],
     "level": 2,
     "name": "Aprimorar Habilidade",
     "school": "transmutação",
@@ -1505,6 +1607,7 @@
   },
   {
     "id": "arma espiritual",
+    "spell_lists": ["Clérigo"],
     "level": 2,
     "name": "Arma Espiritual",
     "school": "evocação",
@@ -1521,6 +1624,7 @@
   },
   {
     "id": "arma mágica",
+    "spell_lists": ["Mago", "Paladino"],
     "level": 2,
     "name": "Arma Mágica",
     "school": "transmutação",
@@ -1537,6 +1641,7 @@
   },
   {
     "id": "arrombar",
+    "spell_lists": ["Bardo", "Feiticeiro", "Mago"],
     "level": 2,
     "name": "Arrombar",
     "school": "transmutação",
@@ -1553,6 +1658,7 @@
   },
   {
     "id": "augúrio",
+    "spell_lists": ["Clérigo"],
     "level": 2,
     "name": "Augúrio",
     "school": "adivinhação",
@@ -1569,6 +1675,7 @@
   },
   {
     "id": "aumentar/reduzir",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 2,
     "name": "Aumentar/Reduzir",
     "school": "transmutação",
@@ -1585,6 +1692,7 @@
   },
   {
     "id": "aura mágica de nystul",
+    "spell_lists": ["Mago"],
     "level": 2,
     "name": "Aura Mágica de Nystul",
     "school": "ilusão",
@@ -1601,6 +1709,7 @@
   },
   {
     "id": "boca encantada",
+    "spell_lists": ["Bardo", "Mago"],
     "level": 2,
     "name": "Boca Encantada",
     "school": "ilusão",
@@ -1617,6 +1726,7 @@
   },
   {
     "id": "cativar",
+    "spell_lists": ["Bardo", "Bruxo"],
     "level": 2,
     "name": "Cativar",
     "school": "encantamento",
@@ -1633,6 +1743,7 @@
   },
   {
     "id": "cegueira/surdez",
+    "spell_lists": ["Bardo", "Clérigo", "Feiticeiro", "Mago"],
     "level": 2,
     "name": "Cegueira/Surdez",
     "school": "necromancia",
@@ -1649,6 +1760,7 @@
   },
   {
     "id": "chama contínua",
+    "spell_lists": ["Clérigo", "Mago"],
     "level": 2,
     "name": "Chama Contínua",
     "school": "evocação",
@@ -1665,6 +1777,7 @@
   },
   {
     "id": "convocar montaria",
+    "spell_lists": ["Paladino"],
     "level": 2,
     "name": "Convocar Montaria",
     "school": "conjuração",
@@ -1681,6 +1794,7 @@
   },
   {
     "id": "coroa da loucura",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 2,
     "name": "Coroa da Loucura",
     "school": "encantamento",
@@ -1697,6 +1811,7 @@
   },
   {
     "id": "cordão de flechas",
+    "spell_lists": ["Patrulheiro"],
     "level": 2,
     "name": "Cordão de Flechas",
     "school": "transmutação",
@@ -1713,6 +1828,7 @@
   },
   {
     "id": "crescer espinhos",
+    "spell_lists": ["Druida", "Patrulheiro"],
     "level": 2,
     "name": "Crescer Espinhos",
     "school": "transmutação",
@@ -1729,6 +1845,7 @@
   },
   {
     "id": "despedaçar",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 2,
     "name": "Despedaçar",
     "school": "evocação",
@@ -1745,6 +1862,7 @@
   },
   {
     "id": "detectar pensamentos",
+    "spell_lists": ["Bardo", "Feiticeiro", "Mago"],
     "level": 2,
     "name": "Detectar Pensamentos",
     "school": "adivinhação",
@@ -1761,6 +1879,7 @@
   },
   {
     "id": "encontrar armadilhas",
+    "spell_lists": ["Clérigo", "Druida", "Patrulheiro"],
     "level": 2,
     "name": "Encontrar Armadilhas",
     "school": "adivinhação",
@@ -1777,6 +1896,7 @@
   },
   {
     "id": "escuridão",
+    "spell_lists": ["Bruxo", "Feiticeiro", "Mago"],
     "level": 2,
     "name": "Escuridão",
     "school": "evocação",
@@ -1793,6 +1913,7 @@
   },
   {
     "id": "esfera flamejante",
+    "spell_lists": ["Druida", "Mago"],
     "level": 2,
     "name": "Esfera Flamejante",
     "school": "conjuração",
@@ -1809,6 +1930,7 @@
   },
   {
     "id": "esquentar metal",
+    "spell_lists": ["Bardo", "Druida"],
     "level": 2,
     "name": "Esquentar Metal",
     "school": "transmutação",
@@ -1825,6 +1947,7 @@
   },
   {
     "id": "flecha ácida de melf",
+    "spell_lists": ["Mago"],
     "level": 2,
     "name": "Flecha Ácida de Melf",
     "school": "evocação",
@@ -1841,6 +1964,7 @@
   },
   {
     "id": "força fantasmagórica",
+    "spell_lists": ["Bardo", "Feiticeiro", "Mago"],
     "level": 2,
     "name": "Força Fantasmagórica",
     "school": "ilusão",
@@ -1857,6 +1981,14 @@
   },
   {
     "id": "imobilizar pessoa",
+    "spell_lists": [
+      "Bardo",
+      "Bruxo",
+      "Clérigo",
+      "Druida",
+      "Feiticeiro",
+      "Mago"
+    ],
     "level": 2,
     "name": "Imobilizar Pessoa",
     "school": "encantamento",
@@ -1873,6 +2005,7 @@
   },
   {
     "id": "invisibilidade",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 2,
     "name": "Invisibilidade",
     "school": "ilusão",
@@ -1889,6 +2022,7 @@
   },
   {
     "id": "lâmina flamejante",
+    "spell_lists": ["Druida"],
     "level": 2,
     "name": "Lâmina Flamejante",
     "school": "evocação",
@@ -1905,6 +2039,7 @@
   },
   {
     "id": "levitação",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 2,
     "name": "Levitação",
     "school": "transmutação",
@@ -1921,6 +2056,7 @@
   },
   {
     "id": "localizar animais ou plantas",
+    "spell_lists": ["Bardo", "Druida", "Patrulheiro"],
     "level": 2,
     "name": "Localizar Animais ou Plantas",
     "school": "adivinhação",
@@ -1937,6 +2073,14 @@
   },
   {
     "id": "localizar objeto",
+    "spell_lists": [
+      "Bardo",
+      "Clérigo",
+      "Druida",
+      "Mago",
+      "Paladino",
+      "Patrulheiro"
+    ],
     "level": 2,
     "name": "Localizar Objeto",
     "school": "adivinhação",
@@ -1953,6 +2097,7 @@
   },
   {
     "id": "lufada de vento",
+    "spell_lists": ["Druida", "Feiticeiro", "Mago"],
     "level": 2,
     "name": "Lufada de Vento",
     "school": "evocação",
@@ -1969,6 +2114,7 @@
   },
   {
     "id": "marca da punição",
+    "spell_lists": ["Paladino"],
     "level": 2,
     "name": "Marca da Punição",
     "school": "evocação",
@@ -1985,6 +2131,7 @@
   },
   {
     "id": "mensageiro animal",
+    "spell_lists": ["Bardo", "Druida", "Patrulheiro"],
     "level": 2,
     "name": "Mensageiro Animal",
     "school": "encantamento",
@@ -2001,6 +2148,7 @@
   },
   {
     "id": "nublar",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 2,
     "name": "Nublar",
     "school": "ilusão",
@@ -2017,6 +2165,7 @@
   },
   {
     "id": "nuvem de adagas",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 2,
     "name": "Nuvem de Adagas",
     "school": "conjuração",
@@ -2033,6 +2182,7 @@
   },
   {
     "id": "oração curativa",
+    "spell_lists": ["Clérigo"],
     "level": 2,
     "name": "Oração Curativa",
     "school": "evocação",
@@ -2049,6 +2199,7 @@
   },
   {
     "id": "passo nebuloso",
+    "spell_lists": ["Bruxo", "Feiticeiro", "Mago"],
     "level": 2,
     "name": "Passo Nebuloso",
     "school": "conjuração",
@@ -2065,6 +2216,7 @@
   },
   {
     "id": "passos sem pegadas",
+    "spell_lists": ["Druida", "Patrulheiro"],
     "level": 2,
     "name": "Passos Sem Pegadas",
     "school": "abjuração",
@@ -2081,6 +2233,7 @@
   },
   {
     "id": "patas de aranha",
+    "spell_lists": ["Bruxo", "Feiticeiro", "Mago"],
     "level": 2,
     "name": "Patas de Aranha",
     "school": "transmutação",
@@ -2097,6 +2250,7 @@
   },
   {
     "id": "pele de árvore",
+    "spell_lists": ["Druida", "Patrulheiro"],
     "level": 2,
     "name": "Pele de Árvore",
     "school": "transmutação",
@@ -2113,6 +2267,7 @@
   },
   {
     "id": "proteção contra veneno",
+    "spell_lists": ["Clérigo", "Druida", "Paladino", "Patrulheiro"],
     "level": 2,
     "name": "Proteção contra Veneno",
     "school": "abjuração",
@@ -2129,6 +2284,7 @@
   },
   {
     "id": "raio ardente",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 2,
     "name": "Raio Ardente",
     "school": "evocação",
@@ -2145,6 +2301,7 @@
   },
   {
     "id": "raio do enfraquecimento",
+    "spell_lists": ["Bruxo", "Mago"],
     "level": 2,
     "name": "Raio do Enfraquecimento",
     "school": "necromancia",
@@ -2161,6 +2318,7 @@
   },
   {
     "id": "raio lunar",
+    "spell_lists": ["Druida"],
     "level": 2,
     "name": "Raio Lunar",
     "school": "evocação",
@@ -2177,6 +2335,7 @@
   },
   {
     "id": "reflexos",
+    "spell_lists": ["Bruxo", "Feiticeiro", "Mago"],
     "level": 2,
     "name": "Reflexos",
     "school": "ilusão",
@@ -2193,6 +2352,7 @@
   },
   {
     "id": "repouso tranquilo",
+    "spell_lists": ["Clérigo", "Mago"],
     "level": 2,
     "name": "Repouso Tranquilo",
     "school": "necromancia",
@@ -2209,6 +2369,7 @@
   },
   {
     "id": "restauração menor",
+    "spell_lists": ["Bardo", "Clérigo", "Druida", "Paladino", "Patrulheiro"],
     "level": 2,
     "name": "Restauração Menor",
     "school": "abjuração",
@@ -2225,6 +2386,7 @@
   },
   {
     "id": "sentido bestial",
+    "spell_lists": ["Druida", "Patrulheiro"],
     "level": 2,
     "name": "Sentido Bestial",
     "school": "adivinhação",
@@ -2241,6 +2403,7 @@
   },
   {
     "id": "silêncio",
+    "spell_lists": ["Bardo", "Clérigo", "Patrulheiro"],
     "level": 2,
     "name": "Silêncio",
     "school": "ilusão",
@@ -2257,6 +2420,7 @@
   },
   {
     "id": "sugestão",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 2,
     "name": "Sugestão",
     "school": "encantamento",
@@ -2273,6 +2437,7 @@
   },
   {
     "id": "teia",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 2,
     "name": "Teia",
     "school": "conjuração",
@@ -2289,6 +2454,7 @@
   },
   {
     "id": "tranca arcana",
+    "spell_lists": ["Mago"],
     "level": 2,
     "name": "Tranca Arcana",
     "school": "abjuração",
@@ -2305,6 +2471,7 @@
   },
   {
     "id": "truque de corda",
+    "spell_lists": ["Mago"],
     "level": 2,
     "name": "Truque de Corda",
     "school": "transmutação",
@@ -2321,6 +2488,7 @@
   },
   {
     "id": "ver o invisível",
+    "spell_lists": ["Bardo", "Feiticeiro", "Mago"],
     "level": 2,
     "name": "Ver o Invisível",
     "school": "adivinhação",
@@ -2337,6 +2505,7 @@
   },
   {
     "id": "vínculo protetor",
+    "spell_lists": ["Clérigo"],
     "level": 2,
     "name": "Vínculo Protetor",
     "school": "abjuração",
@@ -2353,6 +2522,7 @@
   },
   {
     "id": "visão no escuro",
+    "spell_lists": ["Druida", "Feiticeiro", "Mago", "Patrulheiro"],
     "level": 2,
     "name": "Visão No Escuro",
     "school": "transmutação",
@@ -2369,6 +2539,7 @@
   },
   {
     "id": "zona da verdade",
+    "spell_lists": ["Bardo", "Clérigo", "Paladino"],
     "level": 2,
     "name": "Zona da Verdade",
     "school": "encantamento",
@@ -2385,6 +2556,7 @@
   },
   {
     "id": "ampliar plantas",
+    "spell_lists": ["Bardo", "Druida", "Patrulheiro"],
     "level": 3,
     "name": "Ampliar Plantas",
     "school": "transmutação",
@@ -2401,6 +2573,7 @@
   },
   {
     "id": "andar na água",
+    "spell_lists": ["Clérigo", "Druida", "Feiticeiro", "Patrulheiro"],
     "level": 3,
     "name": "Andar Na Água",
     "school": "transmutação",
@@ -2417,6 +2590,7 @@
   },
   {
     "id": "animar mortos",
+    "spell_lists": ["Clérigo", "Mago"],
     "level": 3,
     "name": "Animar Mortos",
     "school": "necromancia",
@@ -2433,6 +2607,7 @@
   },
   {
     "id": "arma elemental",
+    "spell_lists": ["Paladino"],
     "level": 3,
     "name": "Arma Elemental",
     "school": "transmutação",
@@ -2449,6 +2624,7 @@
   },
   {
     "id": "aura de vitalidade",
+    "spell_lists": ["Paladino"],
     "level": 3,
     "name": "Aura de Vitalidade",
     "school": "evocação",
@@ -2465,6 +2641,7 @@
   },
   {
     "id": "bola de fogo",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 3,
     "name": "Bola de Fogo",
     "school": "evocação",
@@ -2481,6 +2658,7 @@
   },
   {
     "id": "círculo mágico",
+    "spell_lists": ["Bruxo", "Clérigo", "Mago", "Paladino"],
     "level": 3,
     "name": "Círculo Mágico",
     "school": "abjuração",
@@ -2497,6 +2675,7 @@
   },
   {
     "id": "clarividência",
+    "spell_lists": ["Bardo", "Clérigo", "Feiticeiro", "Mago"],
     "level": 3,
     "name": "Clarividência",
     "school": "adivinhação",
@@ -2513,6 +2692,7 @@
   },
   {
     "id": "conjurar animais",
+    "spell_lists": ["Druida", "Patrulheiro"],
     "level": 3,
     "name": "Conjurar Animais",
     "school": "conjuração",
@@ -2529,6 +2709,7 @@
   },
   {
     "id": "conjurar rajada",
+    "spell_lists": ["Patrulheiro"],
     "level": 3,
     "name": "Conjurar Rajada",
     "school": "conjuração",
@@ -2545,6 +2726,7 @@
   },
   {
     "id": "contramágica",
+    "spell_lists": ["Bruxo", "Feiticeiro", "Mago"],
     "level": 3,
     "name": "Contramágica",
     "school": "abjuração",
@@ -2561,6 +2743,7 @@
   },
   {
     "id": "convocar relâmpagos",
+    "spell_lists": ["Druida"],
     "level": 3,
     "name": "Convocar Relâmpagos",
     "school": "conjuração",
@@ -2577,6 +2760,7 @@
   },
   {
     "id": "criar alimentos",
+    "spell_lists": ["Clérigo", "Paladino"],
     "level": 3,
     "name": "Criar Alimentos",
     "school": "conjuração",
@@ -2593,6 +2777,7 @@
   },
   {
     "id": "destruição cegante",
+    "spell_lists": ["Paladino"],
     "level": 3,
     "name": "Destruição Cegante",
     "school": "evocação",
@@ -2609,6 +2794,7 @@
   },
   {
     "id": "dificultar detecção",
+    "spell_lists": ["Bardo", "Mago", "Patrulheiro"],
     "level": 3,
     "name": "Dificultar Detecção",
     "school": "abjuração",
@@ -2625,6 +2811,15 @@
   },
   {
     "id": "dissipar magia",
+    "spell_lists": [
+      "Bardo",
+      "Bruxo",
+      "Clérigo",
+      "Druida",
+      "Feiticeiro",
+      "Mago",
+      "Paladino"
+    ],
     "level": 3,
     "name": "Dissipar Magia",
     "school": "abjuração",
@@ -2641,6 +2836,7 @@
   },
   {
     "id": "enviar mensagem",
+    "spell_lists": ["Bardo", "Clérigo", "Mago"],
     "level": 3,
     "name": "Enviar Mensagem",
     "school": "evocação",
@@ -2657,6 +2853,7 @@
   },
   {
     "id": "espíritos guardiões",
+    "spell_lists": ["Clérigo"],
     "level": 3,
     "name": "Espíritos Guardiões",
     "school": "conjuração",
@@ -2673,6 +2870,7 @@
   },
   {
     "id": "falar com os mortos",
+    "spell_lists": ["Bardo", "Clérigo"],
     "level": 3,
     "name": "Falar com Os Mortos",
     "school": "necromancia",
@@ -2689,6 +2887,7 @@
   },
   {
     "id": "flecha relampejante",
+    "spell_lists": ["Patrulheiro"],
     "level": 3,
     "name": "Flecha Relampejante",
     "school": "transmutação",
@@ -2705,6 +2904,7 @@
   },
   {
     "id": "fome de hadar",
+    "spell_lists": ["Bruxo"],
     "level": 3,
     "name": "Fome de Hadar",
     "school": "conjuração",
@@ -2721,6 +2921,7 @@
   },
   {
     "id": "forjar morte",
+    "spell_lists": ["Bardo", "Clérigo", "Druida", "Mago"],
     "level": 3,
     "name": "Forjar Morte",
     "school": "necromancia",
@@ -2737,6 +2938,7 @@
   },
   {
     "id": "forma gasosa",
+    "spell_lists": ["Bruxo", "Feiticeiro", "Mago"],
     "level": 3,
     "name": "Forma Gasosa",
     "school": "transmutação",
@@ -2753,6 +2955,7 @@
   },
   {
     "id": "glifo de vigilância",
+    "spell_lists": ["Bardo", "Clérigo", "Mago"],
     "level": 3,
     "name": "Glifo de Vigilância",
     "school": "abjuração",
@@ -2769,6 +2972,7 @@
   },
   {
     "id": "idiomas",
+    "spell_lists": ["Bardo", "Bruxo", "Clérigo", "Feiticeiro", "Mago"],
     "level": 3,
     "name": "Idiomas",
     "school": "adivinhação",
@@ -2785,6 +2989,7 @@
   },
   {
     "id": "imagem maior",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 3,
     "name": "Imagem Maior",
     "school": "ilusão",
@@ -2801,6 +3006,7 @@
   },
   {
     "id": "lentidão",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 3,
     "name": "Lentidão",
     "school": "transmutação",
@@ -2817,6 +3023,13 @@
   },
   {
     "id": "luz do dia",
+    "spell_lists": [
+      "Clérigo",
+      "Druida",
+      "Feiticeiro",
+      "Paladino",
+      "Patrulheiro"
+    ],
     "level": 3,
     "name": "Luz do Dia",
     "school": "evocação",
@@ -2833,6 +3046,7 @@
   },
   {
     "id": "manto do cruzado",
+    "spell_lists": ["Paladino"],
     "level": 3,
     "name": "Manto do Cruzado",
     "school": "evocação",
@@ -2849,6 +3063,7 @@
   },
   {
     "id": "medo",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 3,
     "name": "Medo",
     "school": "ilusão",
@@ -2865,6 +3080,7 @@
   },
   {
     "id": "mesclar-se às rochas",
+    "spell_lists": ["Clérigo", "Druida"],
     "level": 3,
     "name": "Mesclar-se Às Rochas",
     "school": "transmutação",
@@ -2881,6 +3097,7 @@
   },
   {
     "id": "montaria fantasmagórica",
+    "spell_lists": ["Mago"],
     "level": 3,
     "name": "Montaria Fantasmagórica",
     "school": "ilusão",
@@ -2897,6 +3114,7 @@
   },
   {
     "id": "muralha de vento",
+    "spell_lists": ["Druida", "Patrulheiro"],
     "level": 3,
     "name": "Muralha de Vento",
     "school": "evocação",
@@ -2913,6 +3131,7 @@
   },
   {
     "id": "nevasca",
+    "spell_lists": ["Druida", "Feiticeiro", "Mago"],
     "level": 3,
     "name": "Nevasca",
     "school": "conjuração",
@@ -2929,6 +3148,7 @@
   },
   {
     "id": "névoa fétida",
+    "spell_lists": ["Bardo", "Feiticeiro", "Mago"],
     "level": 3,
     "name": "Névoa Fétida",
     "school": "conjuração",
@@ -2945,6 +3165,7 @@
   },
   {
     "id": "padrão hipnótico",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 3,
     "name": "Padrão Hipnótico",
     "school": "ilusão",
@@ -2961,6 +3182,7 @@
   },
   {
     "id": "palavra curativa em massa",
+    "spell_lists": ["Bardo", "Clérigo"],
     "level": 3,
     "name": "Palavra Curativa Em Massa",
     "school": "evocação",
@@ -2977,6 +3199,7 @@
   },
   {
     "id": "pequena cabana de leomund",
+    "spell_lists": ["Bardo", "Mago"],
     "level": 3,
     "name": "Pequena Cabana de Leomund",
     "school": "evocação",
@@ -2993,6 +3216,7 @@
   },
   {
     "id": "piscar",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 3,
     "name": "Piscar",
     "school": "transmutação",
@@ -3009,6 +3233,7 @@
   },
   {
     "id": "proteção contra energia",
+    "spell_lists": ["Clérigo", "Druida", "Feiticeiro", "Mago", "Patrulheiro"],
     "level": 3,
     "name": "Proteção contra Energia",
     "school": "abjuração",
@@ -3025,6 +3250,7 @@
   },
   {
     "id": "relâmpago",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 3,
     "name": "Relâmpago",
     "school": "evocação",
@@ -3041,6 +3267,7 @@
   },
   {
     "id": "remover maldição",
+    "spell_lists": ["Bruxo", "Clérigo", "Mago", "Paladino"],
     "level": 3,
     "name": "Remover Maldição",
     "school": "abjuração",
@@ -3057,6 +3284,7 @@
   },
   {
     "id": "respirar na água",
+    "spell_lists": ["Druida", "Feiticeiro", "Mago", "Patrulheiro"],
     "level": 3,
     "name": "Respirar Na Água",
     "school": "transmutação",
@@ -3073,6 +3301,7 @@
   },
   {
     "id": "revivificar",
+    "spell_lists": ["Clérigo", "Paladino"],
     "level": 3,
     "name": "Revivificar",
     "school": "necromancia",
@@ -3089,6 +3318,7 @@
   },
   {
     "id": "rogar maldição",
+    "spell_lists": ["Bardo", "Clérigo", "Mago"],
     "level": 3,
     "name": "Rogar Maldição",
     "school": "necromancia",
@@ -3105,6 +3335,7 @@
   },
   {
     "id": "sinal de esperança",
+    "spell_lists": ["Clérigo"],
     "level": 3,
     "name": "Sinal de Esperança",
     "school": "abjuração",
@@ -3121,6 +3352,7 @@
   },
   {
     "id": "toque vampírico",
+    "spell_lists": ["Bruxo", "Mago"],
     "level": 3,
     "name": "Toque Vampírico",
     "school": "necromancia",
@@ -3137,6 +3369,7 @@
   },
   {
     "id": "velocidade",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 3,
     "name": "Velocidade",
     "school": "transmutação",
@@ -3153,6 +3386,7 @@
   },
   {
     "id": "voo",
+    "spell_lists": ["Bruxo", "Feiticeiro", "Mago"],
     "level": 3,
     "name": "Voo",
     "school": "transmutação",
@@ -3169,6 +3403,7 @@
   },
   {
     "id": "adivinhação",
+    "spell_lists": ["Clérigo"],
     "level": 4,
     "name": "Adivinhação",
     "school": "adivinhação",
@@ -3185,6 +3420,7 @@
   },
   {
     "id": "arca secreta de leomund",
+    "spell_lists": ["Mago"],
     "level": 4,
     "name": "Arca Secreta de Leomund",
     "school": "conjuração",
@@ -3201,6 +3437,7 @@
   },
   {
     "id": "assassino fantasmagórico",
+    "spell_lists": ["Mago"],
     "level": 4,
     "name": "Assassino Fantasmagórico",
     "school": "ilusão",
@@ -3217,6 +3454,7 @@
   },
   {
     "id": "aura de pureza",
+    "spell_lists": ["Paladino"],
     "level": 4,
     "name": "Aura de Pureza",
     "school": "abjuração",
@@ -3233,6 +3471,7 @@
   },
   {
     "id": "aura de vida",
+    "spell_lists": ["Paladino"],
     "level": 4,
     "name": "Aura de Vida",
     "school": "abjuração",
@@ -3249,6 +3488,7 @@
   },
   {
     "id": "banimento",
+    "spell_lists": ["Bruxo", "Clérigo", "Feiticeiro", "Mago", "Paladino"],
     "level": 4,
     "name": "Banimento",
     "school": "abjuração",
@@ -3265,6 +3505,7 @@
   },
   {
     "id": "cão fiel de mordenkainen",
+    "spell_lists": ["Mago"],
     "level": 4,
     "name": "Cão Fiel de Mordenkainen",
     "school": "conjuração",
@@ -3281,6 +3522,7 @@
   },
   {
     "id": "compulsão",
+    "spell_lists": ["Bardo"],
     "level": 4,
     "name": "Compulsão",
     "school": "encantamento",
@@ -3297,6 +3539,7 @@
   },
   {
     "id": "confusão",
+    "spell_lists": ["Bardo", "Druida", "Feiticeiro", "Mago"],
     "level": 4,
     "name": "Confusão",
     "school": "encantamento",
@@ -3313,6 +3556,7 @@
   },
   {
     "id": "conjurar elementais menores",
+    "spell_lists": ["Druida", "Mago"],
     "level": 4,
     "name": "Conjurar Elementais Menores",
     "school": "conjuração",
@@ -3329,6 +3573,7 @@
   },
   {
     "id": "conjurar seres da floresta",
+    "spell_lists": ["Druida", "Patrulheiro"],
     "level": 4,
     "name": "Conjurar Seres da Floresta",
     "school": "conjuração",
@@ -3345,6 +3590,7 @@
   },
   {
     "id": "controlar a água",
+    "spell_lists": ["Clérigo", "Druida", "Mago"],
     "level": 4,
     "name": "Controlar a Água",
     "school": "transmutação",
@@ -3361,6 +3607,7 @@
   },
   {
     "id": "destruição estonteante",
+    "spell_lists": ["Paladino"],
     "level": 4,
     "name": "Destruição Estonteante",
     "school": "evocação",
@@ -3377,6 +3624,7 @@
   },
   {
     "id": "dominar besta",
+    "spell_lists": ["Druida", "Feiticeiro"],
     "level": 4,
     "name": "Dominar Besta",
     "school": "encantamento",
@@ -3393,6 +3641,7 @@
   },
   {
     "id": "escudo de fogo",
+    "spell_lists": ["Mago"],
     "level": 4,
     "name": "Escudo de Fogo",
     "school": "evocação",
@@ -3409,6 +3658,7 @@
   },
   {
     "id": "esfera resiliente de otiluke",
+    "spell_lists": ["Mago"],
     "level": 4,
     "name": "Esfera Resiliente de Otiluke",
     "school": "evocação",
@@ -3425,6 +3675,7 @@
   },
   {
     "id": "fabricar",
+    "spell_lists": ["Mago"],
     "level": 4,
     "name": "Fabricar",
     "school": "transmutação",
@@ -3441,6 +3692,7 @@
   },
   {
     "id": "guardião da fé",
+    "spell_lists": ["Clérigo"],
     "level": 4,
     "name": "Guardião da Fé",
     "school": "conjuração",
@@ -3457,6 +3709,7 @@
   },
   {
     "id": "inseto gigante",
+    "spell_lists": ["Druida"],
     "level": 4,
     "name": "Inseto Gigante",
     "school": "transmutação",
@@ -3473,6 +3726,7 @@
   },
   {
     "id": "invisibilidade maior",
+    "spell_lists": ["Bardo", "Feiticeiro", "Mago"],
     "level": 4,
     "name": "Invisibilidade Maior",
     "school": "ilusão",
@@ -3489,6 +3743,14 @@
   },
   {
     "id": "localizar criatura",
+    "spell_lists": [
+      "Bardo",
+      "Clérigo",
+      "Druida",
+      "Mago",
+      "Paladino",
+      "Patrulheiro"
+    ],
     "level": 4,
     "name": "Localizar Criatura",
     "school": "adivinhação",
@@ -3505,6 +3767,7 @@
   },
   {
     "id": "malogro",
+    "spell_lists": ["Bruxo", "Druida", "Feiticeiro", "Mago"],
     "level": 4,
     "name": "Malogro",
     "school": "necromancia",
@@ -3521,6 +3784,7 @@
   },
   {
     "id": "metamorfose",
+    "spell_lists": ["Bardo", "Druida", "Feiticeiro", "Mago"],
     "level": 4,
     "name": "Metamorfose",
     "school": "transmutação",
@@ -3537,6 +3801,7 @@
   },
   {
     "id": "moldar rochas",
+    "spell_lists": ["Clérigo", "Druida", "Mago"],
     "level": 4,
     "name": "Moldar Rochas",
     "school": "transmutação",
@@ -3553,6 +3818,7 @@
   },
   {
     "id": "movimentação livre",
+    "spell_lists": ["Bardo", "Clérigo", "Druida", "Patrulheiro"],
     "level": 4,
     "name": "Movimentação Livre",
     "school": "abjuração",
@@ -3569,6 +3835,7 @@
   },
   {
     "id": "muralha de fogo",
+    "spell_lists": ["Druida", "Feiticeiro", "Mago"],
     "level": 4,
     "name": "Muralha de Fogo",
     "school": "evocação",
@@ -3585,6 +3852,7 @@
   },
   {
     "id": "olho arcano",
+    "spell_lists": ["Mago"],
     "level": 4,
     "name": "Olho Arcano",
     "school": "adivinhação",
@@ -3601,6 +3869,7 @@
   },
   {
     "id": "pele de pedra",
+    "spell_lists": ["Druida", "Feiticeiro", "Mago", "Patrulheiro"],
     "level": 4,
     "name": "Pele de Pedra",
     "school": "abjuração",
@@ -3617,6 +3886,7 @@
   },
   {
     "id": "porta dimensional",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 4,
     "name": "Porta Dimensional",
     "school": "conjuração",
@@ -3633,6 +3903,7 @@
   },
   {
     "id": "proteção contra a morte",
+    "spell_lists": ["Clérigo", "Paladino"],
     "level": 4,
     "name": "Proteção contra a Morte",
     "school": "abjuração",
@@ -3649,6 +3920,7 @@
   },
   {
     "id": "santuário particular de mordenkainen",
+    "spell_lists": ["Mago"],
     "level": 4,
     "name": "Santuário Particular de Mordenkainen",
     "school": "abjuração",
@@ -3665,6 +3937,7 @@
   },
   {
     "id": "tempestade de gelo",
+    "spell_lists": ["Druida", "Feiticeiro", "Mago"],
     "level": 4,
     "name": "Tempestade de Gelo",
     "school": "evocação",
@@ -3681,6 +3954,7 @@
   },
   {
     "id": "tentáculos negros de evard",
+    "spell_lists": ["Mago"],
     "level": 4,
     "name": "Tentáculos Negros de Evard",
     "school": "conjuração",
@@ -3697,6 +3971,7 @@
   },
   {
     "id": "terreno alucinógeno",
+    "spell_lists": ["Bardo", "Bruxo", "Druida", "Mago"],
     "level": 4,
     "name": "Terreno Alucinógeno",
     "school": "ilusão",
@@ -3713,6 +3988,7 @@
   },
   {
     "id": "vinha esmagadora",
+    "spell_lists": ["Druida", "Patrulheiro"],
     "level": 4,
     "name": "Vinha Esmagadora",
     "school": "conjuração",
@@ -3729,6 +4005,7 @@
   },
   {
     "id": "aljava veloz",
+    "spell_lists": ["Patrulheiro"],
     "level": 5,
     "name": "Aljava Veloz",
     "school": "transmutação",
@@ -3745,6 +4022,7 @@
   },
   {
     "id": "âncora planar",
+    "spell_lists": ["Bardo", "Clérigo", "Druida", "Mago"],
     "level": 5,
     "name": "Âncora Planar",
     "school": "abjuração",
@@ -3761,6 +4039,7 @@
   },
   {
     "id": "animar objetos",
+    "spell_lists": ["Bardo", "Feiticeiro", "Mago"],
     "level": 5,
     "name": "Animar Objetos",
     "school": "transmutação",
@@ -3777,6 +4056,7 @@
   },
   {
     "id": "caminhar em árvores",
+    "spell_lists": ["Druida", "Patrulheiro"],
     "level": 5,
     "name": "Caminhar Em Árvores",
     "school": "conjuração",
@@ -3793,6 +4073,7 @@
   },
   {
     "id": "círculo de poder",
+    "spell_lists": ["Paladino"],
     "level": 5,
     "name": "Círculo de Poder",
     "school": "abjuração",
@@ -3809,6 +4090,7 @@
   },
   {
     "id": "círculo de teletransporte",
+    "spell_lists": ["Bardo", "Feiticeiro", "Mago"],
     "level": 5,
     "name": "Círculo de Teletransporte",
     "school": "conjuração",
@@ -3825,6 +4107,7 @@
   },
   {
     "id": "coluna de chamas",
+    "spell_lists": ["Clérigo"],
     "level": 5,
     "name": "Coluna de Chamas",
     "school": "evocação",
@@ -3841,6 +4124,7 @@
   },
   {
     "id": "comunhão",
+    "spell_lists": ["Clérigo"],
     "level": 5,
     "name": "Comunhão",
     "school": "adivinhação",
@@ -3857,6 +4141,7 @@
   },
   {
     "id": "comunhão com a natureza",
+    "spell_lists": ["Druida", "Patrulheiro"],
     "level": 5,
     "name": "Comunhão com a Natureza",
     "school": "adivinhação",
@@ -3873,6 +4158,7 @@
   },
   {
     "id": "cone de frio",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 5,
     "name": "Cone de Frio",
     "school": "evocação",
@@ -3889,6 +4175,7 @@
   },
   {
     "id": "conhecimento lendário",
+    "spell_lists": ["Bardo", "Clérigo", "Mago"],
     "level": 5,
     "name": "Conhecimento Lendário",
     "school": "adivinhação",
@@ -3905,6 +4192,7 @@
   },
   {
     "id": "conjurar elemental",
+    "spell_lists": ["Druida", "Mago"],
     "level": 5,
     "name": "Conjurar Elemental",
     "school": "conjuração",
@@ -3921,6 +4209,7 @@
   },
   {
     "id": "conjurar saraivada",
+    "spell_lists": ["Patrulheiro"],
     "level": 5,
     "name": "Conjurar Saraivada",
     "school": "conjuração",
@@ -3937,6 +4226,7 @@
   },
   {
     "id": "consagrar",
+    "spell_lists": ["Clérigo"],
     "level": 5,
     "name": "Consagrar",
     "school": "evocação",
@@ -3953,6 +4243,7 @@
   },
   {
     "id": "contato extraplanar",
+    "spell_lists": ["Bruxo", "Mago"],
     "level": 5,
     "name": "Contato Extraplanar",
     "school": "adivinhação",
@@ -3969,6 +4260,7 @@
   },
   {
     "id": "criação",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 5,
     "name": "Criação",
     "school": "ilusão",
@@ -3985,6 +4277,7 @@
   },
   {
     "id": "criar passagem",
+    "spell_lists": ["Mago"],
     "level": 5,
     "name": "Criar Passagem",
     "school": "transmutação",
@@ -4001,6 +4294,7 @@
   },
   {
     "id": "cúpula antivida",
+    "spell_lists": ["Druida"],
     "level": 5,
     "name": "Cúpula Antivida",
     "school": "abjuração",
@@ -4017,6 +4311,7 @@
   },
   {
     "id": "curar ferimentos em massa",
+    "spell_lists": ["Clérigo", "Druida"],
     "level": 5,
     "name": "Curar Ferimentos Em Massa",
     "school": "evocação",
@@ -4033,6 +4328,7 @@
   },
   {
     "id": "despertar",
+    "spell_lists": ["Bardo", "Druida"],
     "level": 5,
     "name": "Despertar",
     "school": "transmutação",
@@ -4049,6 +4345,7 @@
   },
   {
     "id": "despistar",
+    "spell_lists": ["Bardo", "Mago"],
     "level": 5,
     "name": "Despistar",
     "school": "ilusão",
@@ -4065,6 +4362,7 @@
   },
   {
     "id": "destruição banidora",
+    "spell_lists": ["Paladino"],
     "level": 5,
     "name": "Destruição Banidora",
     "school": "abjuração",
@@ -4081,6 +4379,7 @@
   },
   {
     "id": "dissipar o bem e mal",
+    "spell_lists": ["Clérigo", "Paladino"],
     "level": 5,
     "name": "Dissipar o Bem e Mal",
     "school": "abjuração",
@@ -4097,6 +4396,7 @@
   },
   {
     "id": "dominar pessoa",
+    "spell_lists": ["Bardo", "Feiticeiro", "Mago"],
     "level": 5,
     "name": "Dominar Pessoa",
     "school": "encantamento",
@@ -4113,6 +4413,7 @@
   },
   {
     "id": "imobilizar monstro",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 5,
     "name": "Imobilizar Monstro",
     "school": "encantamento",
@@ -4129,6 +4430,7 @@
   },
   {
     "id": "ligação telepática de rary",
+    "spell_lists": ["Mago"],
     "level": 5,
     "name": "Ligação Telepática de Rary",
     "school": "adivinhação",
@@ -4145,6 +4447,7 @@
   },
   {
     "id": "mão de bigby",
+    "spell_lists": ["Mago"],
     "level": 5,
     "name": "Mão de Bigby",
     "school": "evocação",
@@ -4161,6 +4464,7 @@
   },
   {
     "id": "missão",
+    "spell_lists": ["Bardo", "Clérigo", "Druida", "Mago", "Paladino"],
     "level": 5,
     "name": "Missão",
     "school": "encantamento",
@@ -4177,6 +4481,7 @@
   },
   {
     "id": "modificar memória",
+    "spell_lists": ["Bardo", "Mago"],
     "level": 5,
     "name": "Modificar Memória",
     "school": "encantamento",
@@ -4193,6 +4498,7 @@
   },
   {
     "id": "muralha de energia",
+    "spell_lists": ["Mago"],
     "level": 5,
     "name": "Muralha de Energia",
     "school": "evocação",
@@ -4209,6 +4515,7 @@
   },
   {
     "id": "muralha de pedra",
+    "spell_lists": ["Druida", "Feiticeiro", "Mago"],
     "level": 5,
     "name": "Muralha de Pedra",
     "school": "conjuração",
@@ -4225,6 +4532,7 @@
   },
   {
     "id": "névoa mortal",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 5,
     "name": "Névoa Mortal",
     "school": "conjuração",
@@ -4241,6 +4549,7 @@
   },
   {
     "id": "onda destrutiva",
+    "spell_lists": ["Paladino"],
     "level": 5,
     "name": "Onda Destrutiva",
     "school": "evocação",
@@ -4257,6 +4566,7 @@
   },
   {
     "id": "praga",
+    "spell_lists": ["Clérigo", "Druida"],
     "level": 5,
     "name": "Praga",
     "school": "necromancia",
@@ -4273,6 +4583,7 @@
   },
   {
     "id": "praga de insetos",
+    "spell_lists": ["Clérigo", "Druida", "Feiticeiro"],
     "level": 5,
     "name": "Praga de Insetos",
     "school": "conjuração",
@@ -4289,6 +4600,7 @@
   },
   {
     "id": "reencarnação",
+    "spell_lists": ["Druida"],
     "level": 5,
     "name": "Reencarnação",
     "school": "transmutação",
@@ -4305,6 +4617,7 @@
   },
   {
     "id": "restauração maior",
+    "spell_lists": ["Bardo", "Clérigo", "Druida"],
     "level": 5,
     "name": "Restauração Maior",
     "school": "abjuração",
@@ -4321,6 +4634,7 @@
   },
   {
     "id": "reviver os mortos",
+    "spell_lists": ["Bardo", "Clérigo", "Paladino"],
     "level": 5,
     "name": "Reviver Os Mortos",
     "school": "necromancia",
@@ -4337,6 +4651,7 @@
   },
   {
     "id": "similaridade",
+    "spell_lists": ["Bardo", "Feiticeiro", "Mago"],
     "level": 5,
     "name": "Similaridade",
     "school": "ilusão",
@@ -4353,6 +4668,7 @@
   },
   {
     "id": "sonho",
+    "spell_lists": ["Bardo", "Bruxo", "Mago"],
     "level": 5,
     "name": "Sonho",
     "school": "ilusão",
@@ -4369,6 +4685,7 @@
   },
   {
     "id": "telecinésia",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 5,
     "name": "Telecinésia",
     "school": "transmutação",
@@ -4385,6 +4702,7 @@
   },
   {
     "id": "vidência",
+    "spell_lists": ["Bardo", "Bruxo", "Clérigo", "Druida", "Mago"],
     "level": 5,
     "name": "Vidência",
     "school": "adivinhação",
@@ -4401,6 +4719,7 @@
   },
   {
     "id": "aliado planar",
+    "spell_lists": ["Clérigo"],
     "level": 6,
     "name": "Aliado Planar",
     "school": "conjuração",
@@ -4417,6 +4736,7 @@
   },
   {
     "id": "ataque visual",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 6,
     "name": "Ataque Visual",
     "school": "necromancia",
@@ -4433,6 +4753,7 @@
   },
   {
     "id": "banquete dos heróis",
+    "spell_lists": ["Clérigo", "Druida"],
     "level": 6,
     "name": "Banquete dos Heróis",
     "school": "conjuração",
@@ -4449,6 +4770,7 @@
   },
   {
     "id": "barreira de lâminas",
+    "spell_lists": ["Clérigo"],
     "level": 6,
     "name": "Barreira de Lâminas",
     "school": "evocação",
@@ -4465,6 +4787,7 @@
   },
   {
     "id": "caminhar no vento",
+    "spell_lists": ["Druida"],
     "level": 6,
     "name": "Caminhar No Vento",
     "school": "transmutação",
@@ -4481,6 +4804,7 @@
   },
   {
     "id": "carne para pedra",
+    "spell_lists": ["Bruxo", "Mago"],
     "level": 6,
     "name": "Carne Para Pedra",
     "school": "transmutação",
@@ -4497,6 +4821,7 @@
   },
   {
     "id": "círculo da morte",
+    "spell_lists": ["Bruxo", "Feiticeiro", "Mago"],
     "level": 6,
     "name": "Círculo da Morte",
     "school": "necromancia",
@@ -4513,6 +4838,7 @@
   },
   {
     "id": "conjurar fada",
+    "spell_lists": ["Bruxo", "Druida"],
     "level": 6,
     "name": "Conjurar Fada",
     "school": "conjuração",
@@ -4529,6 +4855,7 @@
   },
   {
     "id": "contingência",
+    "spell_lists": ["Mago"],
     "level": 6,
     "name": "Contingência",
     "school": "evocação",
@@ -4545,6 +4872,7 @@
   },
   {
     "id": "corrente de relâmpagos",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 6,
     "name": "Corrente de Relâmpagos",
     "school": "evocação",
@@ -4561,6 +4889,7 @@
   },
   {
     "id": "criar mortos-vivos",
+    "spell_lists": ["Bruxo", "Clérigo", "Mago"],
     "level": 6,
     "name": "Criar Mortos-Vivos",
     "school": "necromancia",
@@ -4577,6 +4906,7 @@
   },
   {
     "id": "cura completa",
+    "spell_lists": ["Clérigo", "Druida"],
     "level": 6,
     "name": "Cura Completa",
     "school": "evocação",
@@ -4593,6 +4923,7 @@
   },
   {
     "id": "dança irresistível de otto",
+    "spell_lists": ["Bardo", "Mago"],
     "level": 6,
     "name": "Dança Irresistível de Otto",
     "school": "encantamento",
@@ -4609,6 +4940,7 @@
   },
   {
     "id": "desintegrar",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 6,
     "name": "Desintegrar",
     "school": "transmutação",
@@ -4625,6 +4957,7 @@
   },
   {
     "id": "doença plena",
+    "spell_lists": ["Clérigo"],
     "level": 6,
     "name": "Doença Plena",
     "school": "necromancia",
@@ -4641,6 +4974,7 @@
   },
   {
     "id": "encontrar o caminho",
+    "spell_lists": ["Bardo", "Clérigo", "Druida"],
     "level": 6,
     "name": "Encontrar o Caminho",
     "school": "adivinhação",
@@ -4657,6 +4991,7 @@
   },
   {
     "id": "esfera congelante de otiluke",
+    "spell_lists": ["Mago"],
     "level": 6,
     "name": "Esfera Congelante de Otiluke",
     "school": "evocação",
@@ -4673,6 +5008,7 @@
   },
   {
     "id": "globo de invulnerabilidade",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 6,
     "name": "Globo de Invulnerabilidade",
     "school": "abjuração",
@@ -4689,6 +5025,7 @@
   },
   {
     "id": "ilusão programada",
+    "spell_lists": ["Bardo", "Mago"],
     "level": 6,
     "name": "Ilusão Programada",
     "school": "ilusão",
@@ -4705,6 +5042,7 @@
   },
   {
     "id": "invocação instantânea de drawmij",
+    "spell_lists": ["Mago"],
     "level": 6,
     "name": "Invocação Instantânea de Drawmij",
     "school": "conjuração",
@@ -4721,6 +5059,7 @@
   },
   {
     "id": "mover terra",
+    "spell_lists": ["Druida", "Feiticeiro", "Mago"],
     "level": 6,
     "name": "Mover Terra",
     "school": "transmutação",
@@ -4737,6 +5076,7 @@
   },
   {
     "id": "muralha de espinhos",
+    "spell_lists": ["Druida"],
     "level": 6,
     "name": "Muralha de Espinhos",
     "school": "conjuração",
@@ -4753,6 +5093,7 @@
   },
   {
     "id": "muralha de gelo",
+    "spell_lists": ["Mago"],
     "level": 6,
     "name": "Muralha de Gelo",
     "school": "evocação",
@@ -4769,6 +5110,7 @@
   },
   {
     "id": "palavra de recordação",
+    "spell_lists": ["Clérigo"],
     "level": 6,
     "name": "Palavra de Recordação",
     "school": "conjuração",
@@ -4785,6 +5127,7 @@
   },
   {
     "id": "portal arcano",
+    "spell_lists": ["Bruxo", "Feiticeiro", "Mago"],
     "level": 6,
     "name": "Portal Arcano",
     "school": "conjuração",
@@ -4801,6 +5144,7 @@
   },
   {
     "id": "proibição",
+    "spell_lists": ["Clérigo"],
     "level": 6,
     "name": "Proibição",
     "school": "abjuração",
@@ -4817,6 +5161,7 @@
   },
   {
     "id": "proteger fortaleza",
+    "spell_lists": ["Bardo", "Mago"],
     "level": 6,
     "name": "Proteger Fortaleza",
     "school": "abjuração",
@@ -4833,6 +5178,7 @@
   },
   {
     "id": "raio solar",
+    "spell_lists": ["Druida", "Feiticeiro", "Mago"],
     "level": 6,
     "name": "Raio Solar",
     "school": "evocação",
@@ -4849,6 +5195,7 @@
   },
   {
     "id": "recipiente arcano",
+    "spell_lists": ["Mago"],
     "level": 6,
     "name": "Recipiente Arcano",
     "school": "necromancia",
@@ -4865,6 +5212,7 @@
   },
   {
     "id": "sugestão em massa",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 6,
     "name": "Sugestão Em Massa",
     "school": "encantamento",
@@ -4881,6 +5229,7 @@
   },
   {
     "id": "teletransporte por árvores",
+    "spell_lists": ["Druida"],
     "level": 6,
     "name": "Teletransporte Por Árvores",
     "school": "conjuração",
@@ -4897,6 +5246,7 @@
   },
   {
     "id": "visão da verdade",
+    "spell_lists": ["Bardo", "Bruxo", "Clérigo", "Feiticeiro", "Mago"],
     "level": 6,
     "name": "Visão da Verdade",
     "school": "adivinhação",
@@ -4913,6 +5263,7 @@
   },
   {
     "id": "bola de fogo controlável",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 7,
     "name": "Bola de Fogo Controlável",
     "school": "evocação",
@@ -4929,6 +5280,7 @@
   },
   {
     "id": "conjurar celestial",
+    "spell_lists": ["Clérigo"],
     "level": 7,
     "name": "Conjurar Celestial",
     "school": "conjuração",
@@ -4945,6 +5297,7 @@
   },
   {
     "id": "dedo da morte",
+    "spell_lists": ["Bruxo", "Feiticeiro", "Mago"],
     "level": 7,
     "name": "Dedo da Morte",
     "school": "necromancia",
@@ -4961,6 +5314,7 @@
   },
   {
     "id": "espada de mordenkainen",
+    "spell_lists": ["Bardo", "Mago"],
     "level": 7,
     "name": "Espada de Mordenkainen",
     "school": "evocação",
@@ -4977,6 +5331,7 @@
   },
   {
     "id": "forma etérea",
+    "spell_lists": ["Bardo", "Bruxo", "Clérigo", "Feiticeiro", "Mago"],
     "level": 7,
     "name": "Forma Etérea",
     "school": "transmutação",
@@ -4993,6 +5348,7 @@
   },
   {
     "id": "inverter a gravidade",
+    "spell_lists": ["Druida", "Feiticeiro", "Mago"],
     "level": 7,
     "name": "Inverter a Gravidade",
     "school": "transmutação",
@@ -5009,6 +5365,7 @@
   },
   {
     "id": "isolamento",
+    "spell_lists": ["Mago"],
     "level": 7,
     "name": "Isolamento",
     "school": "transmutação",
@@ -5025,6 +5382,7 @@
   },
   {
     "id": "mansão magnífica de mordenkainen",
+    "spell_lists": ["Bardo", "Mago"],
     "level": 7,
     "name": "Mansão Magnífica de Mordenkainen",
     "school": "conjuração",
@@ -5041,6 +5399,7 @@
   },
   {
     "id": "miragem",
+    "spell_lists": ["Bardo", "Druida", "Mago"],
     "level": 7,
     "name": "Miragem",
     "school": "ilusão",
@@ -5057,6 +5416,7 @@
   },
   {
     "id": "palavra divina",
+    "spell_lists": ["Clérigo"],
     "level": 7,
     "name": "Palavra Divina",
     "school": "evocação",
@@ -5073,6 +5433,7 @@
   },
   {
     "id": "prisão de energia",
+    "spell_lists": ["Bardo", "Bruxo", "Mago"],
     "level": 7,
     "name": "Prisão de Energia",
     "school": "evocação",
@@ -5089,6 +5450,7 @@
   },
   {
     "id": "projetar imagem",
+    "spell_lists": ["Bardo", "Mago"],
     "level": 7,
     "name": "Projetar Imagem",
     "school": "ilusão",
@@ -5105,6 +5467,7 @@
   },
   {
     "id": "rajada prismática",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 7,
     "name": "Rajada Prismática",
     "school": "evocação",
@@ -5121,6 +5484,7 @@
   },
   {
     "id": "regeneração",
+    "spell_lists": ["Bardo", "Clérigo", "Druida"],
     "level": 7,
     "name": "Regeneração",
     "school": "transmutação",
@@ -5137,6 +5501,7 @@
   },
   {
     "id": "ressurreição",
+    "spell_lists": ["Bardo", "Clérigo"],
     "level": 7,
     "name": "Ressurreição",
     "school": "necromancia",
@@ -5153,6 +5518,7 @@
   },
   {
     "id": "símbolo",
+    "spell_lists": ["Bardo", "Clérigo", "Mago"],
     "level": 7,
     "name": "Símbolo",
     "school": "abjuração",
@@ -5169,6 +5535,7 @@
   },
   {
     "id": "simulacro",
+    "spell_lists": ["Mago"],
     "level": 7,
     "name": "Simulacro",
     "school": "ilusão",
@@ -5185,6 +5552,7 @@
   },
   {
     "id": "teletransporte",
+    "spell_lists": ["Bardo", "Feiticeiro", "Mago"],
     "level": 7,
     "name": "Teletransporte",
     "school": "conjuração",
@@ -5201,6 +5569,7 @@
   },
   {
     "id": "tempestade de fogo",
+    "spell_lists": ["Clérigo", "Druida", "Feiticeiro"],
     "level": 7,
     "name": "Tempestade de Fogo",
     "school": "evocação",
@@ -5217,6 +5586,7 @@
   },
   {
     "id": "viagem planar",
+    "spell_lists": ["Bruxo", "Clérigo", "Druida", "Feiticeiro", "Mago"],
     "level": 7,
     "name": "Viagem Planar",
     "school": "conjuração",
@@ -5233,6 +5603,7 @@
   },
   {
     "id": "antipatia/simpatia",
+    "spell_lists": ["Druida", "Mago"],
     "level": 8,
     "name": "Antipatia/Simpatia",
     "school": "encantamento",
@@ -5249,6 +5620,7 @@
   },
   {
     "id": "aura sagrada",
+    "spell_lists": ["Clérigo"],
     "level": 8,
     "name": "Aura Sagrada",
     "school": "abjuração",
@@ -5265,6 +5637,7 @@
   },
   {
     "id": "campo antimagia",
+    "spell_lists": ["Clérigo", "Mago"],
     "level": 8,
     "name": "Campo Antimagia",
     "school": "abjuração",
@@ -5281,6 +5654,7 @@
   },
   {
     "id": "clone",
+    "spell_lists": ["Mago"],
     "level": 8,
     "name": "Clone",
     "school": "necromancia",
@@ -5297,6 +5671,7 @@
   },
   {
     "id": "controlar o clima",
+    "spell_lists": ["Clérigo", "Druida", "Mago"],
     "level": 8,
     "name": "Controlar o Clima",
     "school": "transmutação",
@@ -5313,6 +5688,7 @@
   },
   {
     "id": "dominar monstro",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 8,
     "name": "Dominar Monstro",
     "school": "encantamento",
@@ -5329,6 +5705,7 @@
   },
   {
     "id": "enfraquecer intelecto",
+    "spell_lists": ["Bardo", "Bruxo", "Druida", "Mago"],
     "level": 8,
     "name": "Enfraquecer Intelecto",
     "school": "encantamento",
@@ -5345,6 +5722,7 @@
   },
   {
     "id": "explosão solar",
+    "spell_lists": ["Druida", "Feiticeiro", "Mago"],
     "level": 8,
     "name": "Explosão Solar",
     "school": "evocação",
@@ -5361,6 +5739,7 @@
   },
   {
     "id": "formas animais",
+    "spell_lists": ["Druida"],
     "level": 8,
     "name": "Formas Animais",
     "school": "transmutação",
@@ -5377,6 +5756,7 @@
   },
   {
     "id": "labirinto",
+    "spell_lists": ["Mago"],
     "level": 8,
     "name": "Labirinto",
     "school": "conjuração",
@@ -5393,6 +5773,7 @@
   },
   {
     "id": "limpar a mente",
+    "spell_lists": ["Bardo", "Mago"],
     "level": 8,
     "name": "Limpar a Mente",
     "school": "abjuração",
@@ -5409,6 +5790,7 @@
   },
   {
     "id": "loquacidade",
+    "spell_lists": ["Bardo", "Bruxo"],
     "level": 8,
     "name": "Loquacidade",
     "school": "transmutação",
@@ -5425,6 +5807,7 @@
   },
   {
     "id": "nuvem incendiária",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 8,
     "name": "Nuvem Incendiária",
     "school": "conjuração",
@@ -5441,6 +5824,7 @@
   },
   {
     "id": "palavra de poder atordoar",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 8,
     "name": "Palavra de Poder Atordoar",
     "school": "encantamento",
@@ -5457,6 +5841,7 @@
   },
   {
     "id": "semiplano",
+    "spell_lists": ["Bruxo", "Mago"],
     "level": 8,
     "name": "Semiplano",
     "school": "conjuração",
@@ -5473,6 +5858,7 @@
   },
   {
     "id": "telepatia",
+    "spell_lists": ["Mago"],
     "level": 8,
     "name": "Telepatia",
     "school": "adivinhação",
@@ -5489,6 +5875,7 @@
   },
   {
     "id": "terremoto",
+    "spell_lists": ["Clérigo", "Druida", "Feiticeiro"],
     "level": 8,
     "name": "Terremoto",
     "school": "evocação",
@@ -5505,6 +5892,7 @@
   },
   {
     "id": "tsunami",
+    "spell_lists": ["Druida"],
     "level": 8,
     "name": "Tsunami",
     "school": "conjuração",
@@ -5521,6 +5909,7 @@
   },
   {
     "id": "alterar forma",
+    "spell_lists": ["Druida", "Mago"],
     "level": 9,
     "name": "Alterar Forma",
     "school": "transmutação",
@@ -5537,6 +5926,7 @@
   },
   {
     "id": "aprisionamento",
+    "spell_lists": ["Bruxo", "Mago"],
     "level": 9,
     "name": "Aprisionamento",
     "school": "abjuração",
@@ -5553,6 +5943,7 @@
   },
   {
     "id": "chuva de meteoros",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 9,
     "name": "Chuva de Meteoros",
     "school": "evocação",
@@ -5569,6 +5960,7 @@
   },
   {
     "id": "cura completa em massa",
+    "spell_lists": ["Clérigo"],
     "level": 9,
     "name": "Cura Completa Em Massa",
     "school": "evocação",
@@ -5585,6 +5977,7 @@
   },
   {
     "id": "desejo",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 9,
     "name": "Desejo",
     "school": "conjuração",
@@ -5601,6 +5994,7 @@
   },
   {
     "id": "encarnação fantasmagórica",
+    "spell_lists": ["Mago"],
     "level": 9,
     "name": "Encarnação Fantasmagórica",
     "school": "ilusão",
@@ -5617,6 +6011,7 @@
   },
   {
     "id": "metamorfose verdadeira",
+    "spell_lists": ["Bardo", "Bruxo", "Mago"],
     "level": 9,
     "name": "Metamorfose Verdadeira",
     "school": "transmutação",
@@ -5633,6 +6028,7 @@
   },
   {
     "id": "muralha prismática",
+    "spell_lists": ["Mago"],
     "level": 9,
     "name": "Muralha Prismática",
     "school": "abjuração",
@@ -5649,6 +6045,7 @@
   },
   {
     "id": "palavra de poder curar",
+    "spell_lists": ["Bardo"],
     "level": 9,
     "name": "Palavra de Poder Curar",
     "school": "evocação",
@@ -5665,6 +6062,7 @@
   },
   {
     "id": "palavra de poder matar",
+    "spell_lists": ["Bardo", "Bruxo", "Feiticeiro", "Mago"],
     "level": 9,
     "name": "Palavra de Poder Matar",
     "school": "encantamento",
@@ -5681,6 +6079,7 @@
   },
   {
     "id": "parar o tempo",
+    "spell_lists": ["Feiticeiro", "Mago"],
     "level": 9,
     "name": "Parar o Tempo",
     "school": "transmutação",
@@ -5697,6 +6096,7 @@
   },
   {
     "id": "portal",
+    "spell_lists": ["Clérigo", "Feiticeiro", "Mago"],
     "level": 9,
     "name": "Portal",
     "school": "conjuração",
@@ -5713,6 +6113,7 @@
   },
   {
     "id": "projeção astral",
+    "spell_lists": ["Bruxo", "Clérigo", "Mago"],
     "level": 9,
     "name": "Projeção Astral",
     "school": "necromancia",
@@ -5729,6 +6130,7 @@
   },
   {
     "id": "ressurreição verdadeira",
+    "spell_lists": ["Clérigo", "Druida"],
     "level": 9,
     "name": "Ressurreição Verdadeira",
     "school": "necromancia",
@@ -5745,6 +6147,7 @@
   },
   {
     "id": "sexto sentido",
+    "spell_lists": ["Bardo", "Bruxo", "Druida", "Mago"],
     "level": 9,
     "name": "Sexto Sentido",
     "school": "adivinhação",
@@ -5761,6 +6164,7 @@
   },
   {
     "id": "tempestade da vingança",
+    "spell_lists": ["Druida"],
     "level": 9,
     "name": "Tempestade da Vingança",
     "school": "conjuração",

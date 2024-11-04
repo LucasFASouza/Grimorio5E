@@ -4,8 +4,7 @@ import React, { useState, useEffect } from "react";
 import SpellCard from "@/components/SpellCard";
 import { Select, SelectItem, Input, Spinner } from "@nextui-org/react";
 
-import spellsDetails from "../public/data/spell-details.json";
-import classSpells from "../public/data/class-spells.json";
+import spellsDetails from "../public/data/spell_details.json";
 
 export default function Home() {
   const [spellsByLevel, setSpellsByLevel] = useState(
@@ -20,7 +19,20 @@ export default function Home() {
   const bookmarkOptions = ["Todos", "Favoritos"];
   const [bookmarkMode, setBookmarkMode] = useState("Todos");
 
-  const [classes, setClasses] = useState([]);
+  const classes = [
+    "Todos",
+    "Bárbaro",
+    "Bardo",
+    "Bruxo",
+    "Clérigo",
+    "Druida",
+    "Feiticeiro",
+    "Guerreiro",
+    "Ladino",
+    "Mago",
+    "Paladino",
+    "Patrulheiro",
+  ];
   const [selectedClass, setSelectedClass] = useState("");
 
   const [searchSpell, setSearchSpell] = useState("");
@@ -47,10 +59,8 @@ export default function Home() {
     let filteredSpells = spellsDetails;
 
     if (selectedClass && selectedClass !== "Todos") {
-      let spellsClassIds = classSpells[selectedClass];
-
       filteredSpells = filteredSpells.filter((spell) =>
-        spellsClassIds.includes(spell.id)
+        spell.spell_lists.includes(selectedClass)
       );
     }
 
@@ -93,13 +103,6 @@ export default function Home() {
       localStorage.setItem("bookmarks", JSON.stringify(bookmarks));
     }
   }, [bookmarks]);
-
-  // Initialize classes list from classSpells data
-  useEffect(() => {
-    const classesList = ["Todos", ...Object.keys(classSpells)];
-
-    setClasses(classesList);
-  }, [classSpells]);
 
   // Apply filters whenever dependencies change
   useEffect(() => {
