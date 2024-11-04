@@ -20,7 +20,6 @@ export default function Home() {
   const [bookmarkMode, setBookmarkMode] = useState("Todos");
 
   const classes = [
-    "Todos",
     "Bárbaro",
     "Bardo",
     "Bruxo",
@@ -34,6 +33,35 @@ export default function Home() {
     "Patrulheiro",
   ];
   const [selectedClass, setSelectedClass] = useState("");
+
+  const schools = [
+    "Adivinhação",
+    "Abjuração",
+    "Conjuração",
+    "Encantamento",
+    "Evocação",
+    "Ilusão",
+    "Necromancia",
+    "Transmutação",
+  ];
+  const [selectedSchool, setSelectedSchool] = useState("");
+
+  const levels = [
+    "Truques",
+    "1º Nível",
+    "2º Nível",
+    "3º Nível",
+    "4º Nível",
+    "5º Nível",
+    "6º Nível",
+    "7º Nível",
+    "8º Nível",
+    "9º Nível",
+  ];
+  const [selectedLevel, setSelectedLevel] = useState("");
+
+  const tags = ["Ritual", "Materiais", "Concentração"];
+  const [selectedTag, setSelectedTag] = useState([]);
 
   const [searchSpell, setSearchSpell] = useState("");
 
@@ -58,7 +86,7 @@ export default function Home() {
   const applyFilters = () => {
     let filteredSpells = spellsDetails;
 
-    if (selectedClass && selectedClass !== "Todos") {
+    if (selectedClass) {
       filteredSpells = filteredSpells.filter((spell) =>
         spell.spell_lists.includes(selectedClass)
       );
@@ -68,6 +96,32 @@ export default function Home() {
       filteredSpells = filteredSpells.filter((spell) =>
         spell.name.toLowerCase().includes(searchSpell.toLowerCase())
       );
+    }
+
+    if (selectedSchool) {
+      filteredSpells = filteredSpells.filter(
+        (spell) => spell.school === selectedSchool.toLowerCase()
+      );
+    }
+
+    if (selectedLevel) {
+      filteredSpells = filteredSpells.filter(
+        (spell) => spell.level == selectedLevel
+      );
+    }
+
+    if (selectedTag.length > 0) {
+      if (selectedTag.includes("Ritual")) {
+        filteredSpells = filteredSpells.filter((spell) => spell.ritual);
+      }
+
+      if (selectedTag.includes("Materiais")) {
+        filteredSpells = filteredSpells.filter((spell) => spell.material);
+      }
+
+      if (selectedTag.includes("Concentração")) {
+        filteredSpells = filteredSpells.filter((spell) => spell.concentration);
+      }
     }
 
     if (bookmarkMode === "Favoritos") {
@@ -109,7 +163,14 @@ export default function Home() {
     setLoading(true);
     applyFilters();
     setLoading(false);
-  }, [selectedClass, searchSpell, bookmarkMode]);
+  }, [
+    selectedClass,
+    searchSpell,
+    bookmarkMode,
+    selectedLevel,
+    selectedSchool,
+    selectedTag,
+  ]);
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-between m-12">
@@ -156,13 +217,61 @@ export default function Home() {
         </div>
       </div>
 
+      <div className="grid lg:grid-cols-8 w-full gap-4 py-8">
+        <div className="col-span-8 md:col-span-4 lg:col-span-2">
+          <Select
+            label="Filtrar por tag"
+            selectionMode="multiple"
+            onSelectionChange={(selectedValue) => {
+              setSelectedTag(Array.from(selectedValue));
+            }}
+          >
+            {tags.map((tagName) => (
+              <SelectItem key={tagName} value={tagName}>
+                {tagName}
+              </SelectItem>
+            ))}
+          </Select>
+        </div>
+
+        <div className="col-span-8 md:col-span-4 lg:col-span-2">
+          <Select
+            label="Filtrar por escola"
+            onSelectionChange={(selectedValue) => {
+              setSelectedSchool(Array.from(selectedValue)[0]);
+            }}
+          >
+            {schools.map((schoolName) => (
+              <SelectItem key={schoolName} value={schoolName}>
+                {schoolName}
+              </SelectItem>
+            ))}
+          </Select>
+        </div>
+
+        <div className="col-span-8 md:col-span-4 lg:col-span-2">
+          <Select
+            label="Filtrar por nível"
+            onSelectionChange={(selectedValue) => {
+              setSelectedLevel(Array.from(selectedValue)[0]);
+            }}
+          >
+            {levels.map((levelName, levelIndex) => (
+              <SelectItem key={levelIndex} value={levelIndex}>
+                {levelName}
+              </SelectItem>
+            ))}
+          </Select>
+        </div>
+      </div>
+
       {spellsByLevel.map(
         (spellsDetails, index) =>
           spellsDetails.length > 0 && (
             <div key={index} className="w-screen p-12">
               <div className="flex justify-between text-sm">
                 <h2 className="text-2xl font-bold font-serif text-red-800">
-                  {index === 0 ? "Truques" : `Magias de ${index}º Nível`}
+                  {levels[index]}
                 </h2>
 
                 <button onClick={() => toggleCollapse(index)}>
