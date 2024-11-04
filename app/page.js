@@ -191,18 +191,6 @@ export default function Home() {
         <h3 className="text-lg font-bold font-serif text-red-800 border-b-2 border-b-amber-400 border-opacity-50 ">
           Grimório 5e.
         </h3>
-
-        <p>
-          Essa ferramenta é baseada no{" "}
-          <a
-            className="font-semibold underline"
-            href="https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf"
-          >
-            System Reference Document
-          </a>{" "}
-          (SRD) e opera sob a Open Game License (OGL).
-        </p>
-
         <p>Não é oficialmente afiliada à Wizards of the Coast.</p>
 
         <p>
